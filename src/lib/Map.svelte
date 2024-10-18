@@ -2,7 +2,7 @@
     import { currentRace, coords, districts, mobile } from "./stores";
     import * as d3 from "d3";
     import { draw } from "svelte/transition";
-    import stateData from "../data/states.json";
+    import states from "../data/states.json";
 
     export let market;
 
@@ -33,8 +33,8 @@
         DC: ["11", "24", "51"],
     };
 
-    // Filter stateData for market states
-    marketStates = stateData["features"].filter((state) =>
+    // Filter states for market states
+    marketStates = states["features"].filter((state) =>
         marketFips[market].includes(state["properties"]["STATEFP"]),
     );
 
