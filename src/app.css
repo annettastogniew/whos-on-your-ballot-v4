@@ -1,0 +1,92 @@
+@font-face {
+	font-family: ArtHouseCondensedBold;
+	src: url(/fonts/ArthouseOwnedCondensed-Medium.woff2);
+}
+
+@font-face {
+	font-family: ArtHouseBold;
+	src: url(/fonts/ArthouseOwned-Medium.woff2);
+}
+
+@font-face {
+	font-family: ArtHouse;
+	src: url(/fonts/ArthouseOwned-Regular.woff2);
+}
+
+body {
+	background-color: #FFF !important;
+	font-family: 'ArtHouse', sans-serif;
+}
+
+.headline {
+	font-family: 'ArtHouseCondensedBold', sans-serif;
+	font-size: 24px;
+	color: #191919;
+	margin-bottom: 10px;
+}
+
+.subhead {
+	font-family: 'ArtHouseMed', sans-serif;
+	font-size: 17px;
+	color: #999;
+	margin-bottom: 10px;
+	line-height: 1.4em;
+}
+
+p {
+	font-family: 'ArtHouse', sans-serif;
+	font-weight: 300;
+	font-size: 17px;
+	color: #191919;
+}
+
+a {
+	color: #458ce0;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #1f40ba;
+}
+  
+
+.credits {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	color: #666;
+	margin-top: 10px;
+	line-height: 1.5em;
+}
+
+button {
+	font-family: 'ArtHouse', sans-serif;
+	font-size: 17px;
+}
+
+input:focus,
+input,
+select,
+select:focus {
+	outline: none;
+}
+
+@media (max-width: 900px) {}
+
+@media (max-width: 500px) {
+	.headline {
+		font-size: 20px;
+	}
+
+	.subhead {
+		font-size: 16px;
+	}
+
+	p {
+		font-size: 16px;
+	}
+
+	.credits {
+		font-size: 12px;
+	}
+
+}
