@@ -108,7 +108,7 @@
                     <tr>
                         {#if candidate["Website"]}
                             <td
-                                ><a href={candidate["Website"]}
+                                ><a target=”_blank” href={candidate["Website"]}
                                     >{candidate["Candidate Name"]}</a
                                 ></td
                             >
@@ -131,6 +131,7 @@
     {#if market === "FL"}
         <p class="party-note">
             See party abbreviations key <a
+                target=”_blank”
                 href="https://dos.fl.gov/elections/candidates-committees/political-parties/"
                 >here</a
             >. WRI denotes "write-in."
