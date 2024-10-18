@@ -1,5 +1,5 @@
 <script>
-  import data from "./data/all-data.json";
+  import data from "./assets/data/all-data.json";
   import SearchResults from "./lib/SearchResults.svelte";
   import SearchBar from "./lib/SearchBar.svelte";
   import { allCandidateData, mobile } from "./lib/stores";

@@ -2,7 +2,7 @@
     import { currentRace, coords, districts, mobile } from "./stores";
     import * as d3 from "d3";
     import { draw } from "svelte/transition";
-    import stateData from "../data/states.json";
+    import stateData from "../assets/data/states.json";
 
     export let market;
 
@@ -96,7 +96,7 @@
         }
         currentDistrict = allDistricts[value];
         regions = [];
-        d3.json(`src/data/${mapType}.json`).then((data) => {
+        d3.json(`src/assets/data/${mapType}.json`).then((data) => {
             regions = data.features;
             regions = regions.filter((region) =>
                 marketFips[market].includes(
