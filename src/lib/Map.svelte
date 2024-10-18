@@ -2,7 +2,7 @@
     import { currentRace, coords, districts, mobile } from "./stores";
     import * as d3 from "d3";
     import { draw } from "svelte/transition";
-    import states from "../data/states.json";
+    import stateData from "../data/states.json";
 
     export let market;
 
@@ -33,8 +33,8 @@
         DC: ["11", "24", "51"],
     };
 
-    // Filter states for market states
-    marketStates = states["features"].filter((state) =>
+    // Filter stateData for market states
+    marketStates = stateData["features"].filter((state) =>
         marketFips[market].includes(state["properties"]["STATEFP"]),
     );
 
@@ -48,7 +48,7 @@
         if (value) {
             viewBox = "0 0 300 150";
             mapParams = {
-                IL: { scale: 1500, translate: [55,110] },
+                IL: { scale: 1500, translate: [55, 110] },
                 FL: { scale: 1300, translate: [-70, -150] },
             };
             circleDims = [3, 2, 1.5];
@@ -96,7 +96,9 @@
         }
         currentDistrict = allDistricts[value];
         regions = [];
-        d3.json(`src/data/${mapType}.json`).then((data) => {
+        d3.json(
+            `https://media.nbcnewyork.com/assets/editorial/national/2024/decision-2024/election-map-geo-data/${mapType}.json`,
+        ).then((data) => {
             regions = data.features;
             regions = regions.filter((region) =>
                 marketFips[market].includes(
