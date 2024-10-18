@@ -1,6 +1,6 @@
 <script>
     import { addressCandidateData, currentRace, districts } from "./stores";
-    import data from "../assets/data/counties.json";
+    import data from "../data/counties.json";
 
     export let market;
 

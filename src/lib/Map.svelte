@@ -2,7 +2,7 @@
     import { currentRace, coords, districts, mobile } from "./stores";
     import * as d3 from "d3";
     import { draw } from "svelte/transition";
-    import stateData from "../assets/data/states.json";
+    import stateData from "../data/states.json";
 
     export let market;
 
