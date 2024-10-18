@@ -73,10 +73,24 @@
         }
     });
 
+    const sortCandidates = (a, b) => {
+        const partyA = a["Party"].trim();
+        const partyB = b["Party"].trim();
+        const parties = Object.keys(marketParties[market]);
+        if (parties.includes(partyA) && !parties.includes(partyB)) {
+            return -1;
+        } else if (parties.includes(partyB) && !parties.includes(partyA)) {
+            return 1;
+        } else {
+            return 0;
+        }
+    }
+
     // Filter candidate data for specific race. Will change as current race changes
     $: raceData = candidateData.filter(
         (candidate) => candidate["Office"] === activeRace,
-    );
+    ).sort((a, b) => sortCandidates(a, b));
+
 </script>
 
 <main>
