@@ -48,9 +48,9 @@
         if (value) {
             viewBox = "0 0 300 150";
             mapParams = {
-                IL: { scale: 1500, translate: [55, 110] },
+                IL: { scale: 1500, translate: [30, 110] },
                 FL: { scale: 1300, translate: [-70, -150] },
-                CA: { scale: 750, translate: [450, 90] },
+                CA: { scale: 750, translate: [400, 90] },
             };
             circleDims = [3, 2, 1.5];
             strokeWidth = 0.35;
