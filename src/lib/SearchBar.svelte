@@ -84,13 +84,17 @@
             "State House": stateHouseDist,
           };
 
+          if (fipsCode === "12086") {
+            raceDistricts["County Sheriff"] = fipsCode;
+          }
+
           // Senate and Presidential candidates are the same statewide, so we only need to filter
           // state house/senate and US house candidates by district
           const filterCandidates = (candidate) => {
             if (
               candidate["Office"] != "President" &&
               candidate["Office"] != "U.S. Senate" &&
-              candidate["Office"] != "Ballot Measures"
+              candidate["Office"] != "Ballot Measures" 
             ) {
               return (
                 raceDistricts[candidate["Office"]] == candidate["District"]
