@@ -2717,6 +2717,39 @@
     "Market": "IL"
   },
   {
+    "Candidate Name": "Ballot Measure 1",
+    "Office": "Ballot Measures",
+    "Party": "",
+    "Website": "",
+    "District": "",
+    "Incumbent": "",
+    "Measure Name": "Election Worker Projection and Candidate Accountability",
+    "Measure Question": "Should any candidate appearing on the Illinois ballot for federal, State, or local office be subject to civil penalties if the candidate interferes or attempts to interfere with an election worker's official duties?",
+    "Market": "IL"
+  },
+  {
+    "Candidate Name": "Ballot Measure 2",
+    "Office": "Ballot Measures",
+    "Party": "",
+    "Website": "",
+    "District": "",
+    "Incumbent": "",
+    "Measure Name": "Property Tax Relief and Fairness",
+    "Measure Question": "Should the Illinois Constitution be amended to create an additional 3% tax on income greater than $1,000,000 for the purpose of dedicating funds raised to property tax relief?",
+    "Market": "IL"
+  },
+  {
+    "Candidate Name": "Ballot Measure 3",
+    "Office": "Ballot Measures",
+    "Party": "",
+    "Website": "",
+    "District": "",
+    "Incumbent": "",
+    "Measure Name": "Assisted Reproductive Health",
+    "Measure Question": "Should all medically appropriate assisted reproductive treatments, including, but not limited to, in vitro fertilization, be covered by any health insurance plan in Illinois that provides coverage for pregnancy benefits, without limitation on the number of treatments?",
+    "Market": "IL"
+  },
+  {
     "Candidate Name": "Kamala\u00a0D. Harris / Tim Walz",
     "Office": "President",
     "Party": "DEM ",

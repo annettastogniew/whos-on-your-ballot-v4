@@ -77,7 +77,7 @@
           const address = result["formatted_address"];
 
           let raceDistricts = {
-            President: fipsCode,
+            "President": fipsCode,
             "U.S. Senate": fipsCode,
             "U.S. House": houseDist,
             "State Senate": stateSenDist,
@@ -89,7 +89,8 @@
           const filterCandidates = (candidate) => {
             if (
               candidate["Office"] != "President" &&
-              candidate["Office"] != "U.S. Senate"
+              candidate["Office"] != "U.S. Senate" &&
+              candidate["Office"] != "Ballot Measures"
             ) {
               return (
                 raceDistricts[candidate["Office"]] == candidate["District"]

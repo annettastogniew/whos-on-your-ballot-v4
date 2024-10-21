@@ -1,6 +1,11 @@
 <script>
     import { addressCandidateData, currentRace } from "./stores";
 
+    /** This component allows users to switch between races by clicking on different tab buttons.
+     * When a button is clicked, the current race global variable is set to that race.
+    */
+
+    // Need a list of unique races from the data, each race will have a tab button
     let races = [];
     addressCandidateData.subscribe((value) => {
         value.map(
@@ -10,9 +15,13 @@
         );
     });
 
-    let activeRace = "President";
-    currentRace.set(activeRace);
+    // Need to know the current active race
+    let activeRace;
+    currentRace.subscribe(value => {
+        activeRace = value;
+    });
 
+    // When a tab button is clicked, change the current active race
     const handleClick = (tabValue) => {
         activeRace = tabValue;
         currentRace.set(activeRace);

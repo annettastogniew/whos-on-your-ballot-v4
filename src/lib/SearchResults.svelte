@@ -1,8 +1,9 @@
 <script>
     import Candidates from "./Candidates.svelte";
     import SelectRace from "./SelectRace.svelte";
+    import BallotMeasures from "./BallotMeasures.svelte";
     import Map from "./Map.svelte";
-    import { addressCandidateData } from "./stores";
+    import { addressCandidateData, currentRace } from "./stores";
     import Tabs from "./Tabs.svelte";
 
     export let market;
@@ -16,6 +17,13 @@
     addressCandidateData.subscribe((value) => {
         candidateData = value;
     });
+
+    // Need to subscribe to current race so we can display race results or ballot measures
+    let activeRace = "President";
+    currentRace.set(activeRace);
+    currentRace.subscribe(value => {
+        activeRace = value;
+    });
 </script>
 
 <main>
@@ -25,14 +33,14 @@
                 <p id="see-candidates">See candidates running for</p>
                 <SelectRace />
             </div>-->
-            <!--<div id="select-race">
-                <p id="see-candidates">See ballot information for</p>
-                <Tabs/>
-            </div>-->
             <Tabs/>
             <div id="results-container">
+            {#if activeRace === "Ballot Measures"}
+                <BallotMeasures/>
+            {:else}
                 <Candidates {market}/>
                 <Map {market} />
+            {/if}
             </div>
         {/if}
     </div>
