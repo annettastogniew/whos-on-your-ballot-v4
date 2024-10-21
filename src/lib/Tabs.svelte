@@ -20,26 +20,33 @@
 </script>
 
 <main>
-    <ul id="tabs">
+    <div id="tabs">
         {#each races as race}
             <button
                 class={race === activeRace ? "active" : ""}
                 on:click={() => handleClick(race)}>{race}</button
             >
         {/each}
-    </ul>
+    </div>
 </main>
 
 <style>
     .active {
-        background-color: #a9a9a9;
+        background-color: #838383;
     }
 
-    ul {
-        display: flex;
-        flex-wrap: wrap;
-        padding-left: 0;
-        margin-bottom: 0;
-        list-style: none;
+    button {
+        color: #ffffff;
+        background-color: #d3d3d3;
+        margin-right: 10px;
+        border-radius: 3px;
+        box-shadow: none;
+        border: none;
+        padding: 5px 10px;
+    }
+
+    main {
+        margin-top: 10px;
+        margin-bottom: 35px;
     }
 </style>

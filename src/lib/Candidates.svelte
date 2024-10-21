@@ -37,7 +37,7 @@
             IND: ["#cfab23"],
             GRE: ["#308e18"],
             LIB: ["#76188e"],
-        }
+        },
     };
 
     // Get background color for given party
@@ -91,13 +91,12 @@
         } else {
             return 0;
         }
-    }
+    };
 
     // Filter candidate data for specific race. Will change as current race changes
-    $: raceData = candidateData.filter(
-        (candidate) => candidate["Office"] === activeRace,
-    ).sort((a, b) => sortCandidates(a, b));
-
+    $: raceData = candidateData
+        .filter((candidate) => candidate["Office"] === activeRace)
+        .sort((a, b) => sortCandidates(a, b));
 </script>
 
 <main>
@@ -115,7 +114,9 @@
                     <tr>
                         {#if candidate["Website"]}
                             <td
-                                ><a target=”_blank” href={candidate["Website"]}
+                                ><a
+                                    target="”_blank”"
+                                    href={candidate["Website"]}
                                     >{candidate["Candidate Name"]}</a
                                 ></td
                             >
@@ -136,24 +137,34 @@
         </table>
     </div>
     {#if market === "FL"}
-        <p class="party-note">
+        <p class="note">
             See party abbreviations key <a
-                target=”_blank”
+                target="”_blank”"
                 href="https://dos.fl.gov/elections/candidates-committees/political-parties/"
                 >here</a
             >. WRI denotes "write-in."
         </p>
     {/if}
+    {#if market === "CA" && activeRace === "U.S. Senate"}
+        <p class="note">
+            Candidates are running for both the partial/unexpired term ending on
+            Jan. 3, 2025 and the full term that follows.
+        </p>
+    {/if}
 </main>
 
 <style>
+    main {
+        max-width: 350px;
+    }
+
     #candidate-list {
         padding: 0;
         width: 100%;
     }
 
     .table-container {
-        max-height: 300px;
+        max-height: 250px;
         min-width: 350px;
         overflow: auto;
         border-radius: 2px;
@@ -174,7 +185,7 @@
         /*font-family: "ArtHouseBold", sans-serif;*/
     }
 
-    .party-note {
+    .note {
         font-size: 15px;
         color: #838383;
     }
@@ -197,5 +208,11 @@
     td {
         background-color: #ffffff;
         border-bottom: 1px solid #ededed;
+    }
+
+    @media screen and (max-width: 700px) {
+        main {
+            max-width: none;
+        }
     }
 </style>

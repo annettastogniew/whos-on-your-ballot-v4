@@ -3,6 +3,7 @@
     import SelectRace from "./SelectRace.svelte";
     import Map from "./Map.svelte";
     import { addressCandidateData } from "./stores";
+    import Tabs from "./Tabs.svelte";
 
     export let market;
 
@@ -20,10 +21,15 @@
 <main>
     <div id="search-results">
         {#if candidateData.length > 0}
-            <div id="select-race">
+            <!--<div id="select-race">
                 <p id="see-candidates">See candidates running for</p>
                 <SelectRace />
-            </div>
+            </div>-->
+            <!--<div id="select-race">
+                <p id="see-candidates">See ballot information for</p>
+                <Tabs/>
+            </div>-->
+            <Tabs/>
             <div id="results-container">
                 <Candidates {market}/>
                 <Map {market} />
@@ -36,15 +42,6 @@
     #search-results {
         display: none;
         width: 100% !important;
-    }
-
-    #select-race {
-        display: flex;
-        align-items: center;
-    }
-
-    #see-candidates {
-        margin-right: 5px;
     }
 
     #results-container {
