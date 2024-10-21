@@ -58,4 +58,10 @@
         margin-top: 10px;
         margin-bottom: 35px;
     }
+
+    @media screen and (max-width: 700px) {
+        button {
+            margin-bottom: 10px;
+        }
+    }
 </style>
