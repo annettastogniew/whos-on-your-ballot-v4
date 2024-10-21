@@ -36,4 +36,8 @@
     li {
         margin-bottom: 35px;
     }
+
+    main {
+        max-width: 800px;
+    }
 </style>
