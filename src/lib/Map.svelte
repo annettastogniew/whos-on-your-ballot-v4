@@ -50,6 +50,7 @@
             mapParams = {
                 IL: { scale: 1500, translate: [55, 110] },
                 FL: { scale: 1300, translate: [-70, -150] },
+                CA: { scale: 750, translate: [450, 90] },
             };
             circleDims = [3, 2, 1.5];
             strokeWidth = 0.35;
@@ -58,6 +59,7 @@
             mapParams = {
                 IL: { scale: 3800, translate: [-150, 275] },
                 FL: { scale: 2500, translate: [-235, -250] },
+                CA: { scale: 1800, translate: [800, 210] },
             };
             circleDims = [6, 4, 3];
             strokeWidth = 0.75;

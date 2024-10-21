@@ -31,6 +31,13 @@
             LPF: ["#76188e"],
             IND: ["#cfab23"],
         },
+        CA: {
+            DEM: ["#2380cf"],
+            GOP: ["#cf232a"],
+            IND: ["#cfab23"],
+            GRE: ["#308e18"],
+            LIB: ["#76188e"],
+        }
     };
 
     // Get background color for given party
