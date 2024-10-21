@@ -32,7 +32,7 @@
   if (url == "http://localhost:5173/") {
     market = "IL";
   } else {
-    market = url.match(/index\.html\?market=(.*)/)[1];
+    market = url.match(/index\.html\?market=(.*)/)[1].split("&")[0];
   }
 
   // filter data for specified market
