@@ -48,3 +48,6 @@ in this repo to `dist/assets` on your computer.
 10. In the js file, search for "`src/data/`" and replace with "`assets/`"
 11. Save all changes.
 12. FTP the copied `dist` file, with your new changes, to Akamai.
+
+## Adding States
+To add states, you'll need to go to every point in the code where a currently working state (e.g. IL) is in the code, and add relevant info for your new state. Then, you'll need to run (this notebook)[https://github.com/annettastogniew/trim-state-shapefiles], with your state and its fips code added. Then, copy the new files to `src/data` in this repository, removing the 'market' prefix from the filenames.
