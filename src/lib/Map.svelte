@@ -5,12 +5,14 @@
     import stateData from "../data/states.json";
 
     export let market;
+    export let races;
 
     /** This component displays a state map, with the district for the specified address highlighted
      * and a point at the address' exact location.
      */
 
-    let mapType,
+    let racesCopy = [...races],
+        mapType,
         points,
         coordinates,
         projection,
@@ -33,10 +35,45 @@
         DC: ["11", "24", "51"],
     };
 
+    // file names for each race type
+    const raceFiles = {
+        "President": "counties",
+        "U.S. Senate": "counties",
+        "U.S. House": "congressional-districts",
+        "State House":"state-house-districts",
+        "State Senate":"state-senate-districts"
+    };
+
+    // Store data for each race so maps will load faster
+    const raceData = {
+        "President": [],
+        "U.S. Senate": [],
+        "U.S. House": [],
+        "State House": [],
+        "State Senate": []
+    };
+
     // Filter stateData for market states
     marketStates = stateData["features"].filter((state) =>
         marketFips[market].includes(state["properties"]["STATEFP"]),
     );
+
+    // No map for ballot measures, need to remove if in races
+    if (racesCopy.includes("Ballot Measures")) {
+        racesCopy.pop();
+    };
+
+    // Load shapefiles for each race type
+    for (let i = 0; i < racesCopy.length; i++) {
+        d3.json(`src/data/${raceFiles[racesCopy[i]]}.json`).then((data) => {
+            let thisRaceData = data.features;
+            raceData[racesCopy[i]] = thisRaceData.filter((region) =>
+                marketFips[market].includes(
+                    region["properties"]["STATEFP"].toString(),
+                ),
+            );
+        });
+    }
 
     // Pull address coords from global variable
     coords.subscribe((value) => {
@@ -81,34 +118,15 @@
 
     // As selected race changes, change the map
     currentRace.subscribe((value) => {
-        switch (value) {
-            case "President":
-            case "U.S. Senate":
-                mapType = "counties";
-                break;
-            case "U.S. House":
-                mapType = "congressional-districts";
-                break;
-            case "State House":
-                mapType = "state-house-districts";
-                break;
-            case "State Senate":
-                mapType = "state-senate-districts";
-                break;
-        }
         currentDistrict = allDistricts[value];
         // clear regions so map animation will restart
         regions = [];
-        // load new regions
-        d3.json(`src/data/${mapType}.json`).then((data) => {
-            regions = data.features;
-            regions = regions.filter((region) =>
-                marketFips[market].includes(
-                    region["properties"]["STATEFP"].toString(),
-                ),
-            );
-        });
+        // load new regions (delay so animation will play)
+        setTimeout(() => regions = raceData[value], 300);
     });
+
+    // Set default race to President (need to delay to ensure d3 data has loaded)
+    setTimeout(() => regions = raceData["President"], 500);
 </script>
 
 <main>

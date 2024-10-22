@@ -2,6 +2,7 @@
     import { addressCandidateData, currentRace } from "./stores";
 
     export let esp;
+    export let races;
 
     let spanishRaces = {
         "President": "Presidente",
@@ -14,16 +15,6 @@
     /** This component allows users to switch between races by clicking on different tab buttons.
      * When a button is clicked, the current race global variable is set to that race.
     */
-
-    // Need a list of unique races from the data, each race will have a tab button
-    let races = [];
-    addressCandidateData.subscribe((value) => {
-        value.map(
-            (candidate) =>
-                !races.includes(candidate["Office"]) &&
-                races.push(candidate["Office"]),
-        );
-    });
 
     // Need to know the current active race
     let activeRace;

@@ -25,6 +25,16 @@
     currentRace.subscribe(value => {
         activeRace = value;
     });
+
+    // Need a list of unique races from the data, each race will have a tab button
+    let races = [];
+    addressCandidateData.subscribe((value) => {
+        value.map(
+            (candidate) =>
+                !races.includes(candidate["Office"]) &&
+                races.push(candidate["Office"]),
+        );
+    });
 </script>
 
 <main>
@@ -34,13 +44,13 @@
                 <p id="see-candidates">See candidates running for</p>
                 <SelectRace />
             </div>-->
-            <Tabs {esp}/>
+            <Tabs {esp} {races}/>
             <div id="results-container">
             {#if activeRace === "Ballot Measures"}
                 <BallotMeasures {esp}/>
             {:else}
                 <Candidates {market} {esp}/>
-                <Map {market}/>
+                <Map {market} {races}/>
             {/if}
             </div>
         {/if}
