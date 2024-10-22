@@ -27,12 +27,11 @@ at least market (market=IL, market=FL or market=CA), and also whether or not the
 
 ## Host this project
 
-To build this project and host it on a server, run `npm run build`. Vite will bundle the project. You can find the bundled html, css and js files in the
-dist folder. Those are the files you should upload to Akamai, or whichever serve you'd like.
+To build this project and host it on a server, run `npm run build`. Vite will bundle the project. You can find the bundled html, css and js files in the dist folder.
 
 ### Github Pages
 
-Hosting this project on Github pages requires some reconfiguring, which are explained in the [instructions](https://docs.google.com/document/d/1a_Af9feHj_i9jnVzKkIgyufn9PhOcnAcRX-7IIzoIuE/edit?usp=sharing) mentioned above.
+Hosting this project on Github pages requires some reconfiguring, which is explained in the [instructions](https://docs.google.com/document/d/1a_Af9feHj_i9jnVzKkIgyufn9PhOcnAcRX-7IIzoIuE/edit?usp=sharing) mentioned above.
 
 If you run into problems with running the commands from the instructions, you can run `npm run build` in your main branch, then copy the `dist` folder onto your computer. Then go to your gh-pages branch and replace everything there with the contents of your new `dist` folder. Commit and push these changes.
 
