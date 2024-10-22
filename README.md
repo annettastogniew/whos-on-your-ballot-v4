@@ -46,7 +46,7 @@ To upload to Akamai, you'll have to follow a few steps.
 in this repo to `dist/assets` on your computer.
 6. Navigate to the js file inside the `assets` folder.
 7. In the js file, search for "`src/data/`" and replace with "`assets/`"
-8. In the css file in `dist/assets`, and in `dist/index.html`, remove any forward slashes in front of `assets/` in filepaths.
+8. In `dist/index.html`, remove any forward slashes in front of `assets/` in filepaths. In the css file in `dist/assets`, remove `/assets/` in the font filepaths.
 9. Save all changes.
 10. FTP the copied `dist` file, with your new changes, to Akamai.
 
