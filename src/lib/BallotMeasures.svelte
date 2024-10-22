@@ -3,11 +3,13 @@
 
     export let esp;
 
-    let ballotMeasures;
+    let ballotMeasures,
+        lang = esp ? "Esp" : "Eng";
+
     addressCandidateData.subscribe(
         (value) =>
             (ballotMeasures = value.filter(
-                (race) => race["Office"] == "Ballot Measures",
+                (race) => race["Office"] === "Ballot Measures" && race["Lang"] === lang,
             )),
     );
 </script>

@@ -9,7 +9,8 @@
         "U.S. House": "Cámara de Representantes de EEUU",
         "U.S. Senate": "Senado de EEUU",
         "State Senate": "Senado Estatal",
-        "State House": "Cámara de Representantes Estatal"
+        "State House": "Cámara de Representantes Estatal",
+        "Ballot Measures": "Medidas en la boleta"
     };
 
     /** This component allows users to switch between races by clicking on different tab buttons.
