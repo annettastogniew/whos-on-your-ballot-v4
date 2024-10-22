@@ -84,7 +84,7 @@
           const address = result["formatted_address"];
 
           let raceDistricts = {
-            President: fipsCode,
+            "President": fipsCode,
             "U.S. Senate": fipsCode,
             "U.S. House": houseDist,
             "State Senate": stateSenDist,
