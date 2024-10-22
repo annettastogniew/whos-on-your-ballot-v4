@@ -180,7 +180,7 @@
 
     .party-block.fl {
         border-radius: 3px;
-        max-width: 40px;
+        width: 40px;
     }
 
     .party-block {

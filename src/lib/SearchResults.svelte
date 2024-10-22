@@ -31,8 +31,11 @@
     addressCandidateData.subscribe((value) => {
         value.map(
             candidate =>
-                !races.includes(candidate["Office"]) &&
-                races.push(candidate["Office"])
+                market === "FL" && esp  ?
+                (candidate["Office"] !== "Ballot Measures" && !races.includes(candidate["Office"]) &&
+                races.push(candidate["Office"])) :
+                (!races.includes(candidate["Office"]) &&
+                races.push(candidate["Office"]))
         );
     });
 </script>
