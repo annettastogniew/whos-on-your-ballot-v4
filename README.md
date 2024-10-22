@@ -19,3 +19,6 @@ To build this project and host it on a server, run `npm run build`. Vite will bu
 dist folder. Those are the files you should upload to Akamai, or whichever serve you'd like.
 
 Hosting this project on Github pages requires some reconfiguring, which are explained in the (instructions)[https://docs.google.com/document/d/1a_Af9feHj_i9jnVzKkIgyufn9PhOcnAcRX-7IIzoIuE/edit?usp=sharing] mentioned above.
+
+NOTE: if you see an error like this: `Uncaught TypeError: Cannot convert undefined or null to object`, double check that you have URL params specifying
+at least market, and also whether or not the tool should be in Spanish. See `App.svelte` for details on the URL params.

@@ -97,7 +97,9 @@
                 break;
         }
         currentDistrict = allDistricts[value];
+        // clear regions so map animation will restart
         regions = [];
+        // load new regions
         d3.json(
             `https://media.nbcnewyork.com/assets/editorial/national/2024/decision-2024/election-map-geo-data/${mapType}.json`,
         ).then((data) => {
