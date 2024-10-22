@@ -5,8 +5,8 @@ The tool provides candidate information for presidential, U.S. legislature and s
 ballot measures that are also shown.
 
 ## Framework
-This tool was built using (Svelte)[https://svelte.dev/docs/introduction], as it was easier to dynamically build and reuse components across markets
-with Svelte than with vanilla JS. Instructions for building a Svelte project are (here)[https://docs.google.com/document/d/1a_Af9feHj_i9jnVzKkIgyufn9PhOcnAcRX-7IIzoIuE/edit?usp=sharing]. 
+This tool was built using [Svelte](https://svelte.dev/docs/introduction), as it was easier to dynamically build and reuse components across markets
+with Svelte than with vanilla JS. Instructions for building a Svelte project are [here](https://docs.google.com/document/d/1a_Af9feHj_i9jnVzKkIgyufn9PhOcnAcRX-7IIzoIuE/edit?usp=sharing). 
 
 ## Run this project
 
@@ -18,7 +18,7 @@ want to develop locally. The project should then display at [http://localhost:51
 To build this project and host it on a server, run `npm run build`. Vite will bundle the project. You can find the bundled html, css and js files in the
 dist folder. Those are the files you should upload to Akamai, or whichever serve you'd like.
 
-Hosting this project on Github pages requires some reconfiguring, which are explained in the (instructions)[https://docs.google.com/document/d/1a_Af9feHj_i9jnVzKkIgyufn9PhOcnAcRX-7IIzoIuE/edit?usp=sharing] mentioned above.
+Hosting this project on Github pages requires some reconfiguring, which are explained in the [instructions](https://docs.google.com/document/d/1a_Af9feHj_i9jnVzKkIgyufn9PhOcnAcRX-7IIzoIuE/edit?usp=sharing) mentioned above.
 
 NOTE: if you see an error like this: `Uncaught TypeError: Cannot convert undefined or null to object`, double check that you have URL params specifying
 at least market, and also whether or not the tool should be in Spanish. See `App.svelte` for details on the URL params.
