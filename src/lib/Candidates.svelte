@@ -16,11 +16,14 @@
         regionName,
         countyName,
         county,
-        flNoteText = esp ? `See party abbreviations key <a target="_blank" href="https://dos.fl.gov/elections/candidates-committees/political-parties/">here</a>. WRI denotes "write-in."`
-        : `Ve la clave de abreviaturas de los partidos en inglés <a target="_blank" href="https://dos.fl.gov/elections/candidates-committees/political-parties/">aquí</a>. WRI significa “por escrito”.`,
-        caNoteText = esp ? `` : `Candidates are running for both the partial/unexpired term ending on Jan. 3, 2025 and the full term that follows.`,
-        colOneHed = esp ? 'Candidato' : 'Candidate',
-        colTwoHed = esp ? 'Partido' : 'Party',
+        flNoteText = esp
+            ? `Ve la clave de abreviaturas de los partidos en inglés <a target="_blank" href="https://dos.fl.gov/elections/candidates-committees/political-parties/">aquí</a>. WRI significa “por escrito”.`
+            : `See party abbreviations key <a target="_blank" href="https://dos.fl.gov/elections/candidates-committees/political-parties/">here</a>. WRI denotes "write-in."`,
+        caNoteText = esp
+            ? ``
+            : `Candidates are running for both the partial/unexpired term ending on Jan. 3, 2025 and the full term that follows.`,
+        colOneHed = esp ? "Candidato" : "Candidate",
+        colTwoHed = esp ? "Partido" : "Party",
         candidateData = [];
 
     // Different markets list parties differently, so these are the colors for the major parties in each market
@@ -82,7 +85,9 @@
         if (value === "President" || value === "U.S. Senate") {
             regionName = countyName;
         } else {
-            regionName = esp ? `Distrito ${allDistricts[value]}` : `District ${allDistricts[value]}`;
+            regionName = esp
+                ? `Distrito ${allDistricts[value]}`
+                : `District ${allDistricts[value]}`;
         }
     });
 
