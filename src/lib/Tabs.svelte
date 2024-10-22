@@ -1,6 +1,16 @@
 <script>
     import { addressCandidateData, currentRace } from "./stores";
 
+    export let esp;
+
+    let spanishRaces = {
+        "President": "Presidente",
+        "U.S. House": "Cámara de Representantes de EEUU",
+        "U.S. Senate": "Senado de EEUU",
+        "State Senate": "Senado Estatal",
+        "State House": "Cámara de Representantes Estatal"
+    };
+
     /** This component allows users to switch between races by clicking on different tab buttons.
      * When a button is clicked, the current race global variable is set to that race.
     */
@@ -33,7 +43,7 @@
         {#each races as race}
             <button
                 class={race === activeRace ? "active" : ""}
-                on:click={() => handleClick(race)}>{race}</button
+                on:click={() => handleClick(race)}>{esp ? spanishRaces[race] : race}</button
             >
         {/each}
     </div>

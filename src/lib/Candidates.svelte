@@ -3,6 +3,7 @@
     import data from "../data/counties.json";
 
     export let market;
+    export let esp;
 
     /** This component displays a list of candidates running for the current race (set by select component)
      * for the current address' districts (set by search bar component). It uses global variables to generate
@@ -15,6 +16,11 @@
         regionName,
         countyName,
         county,
+        flNoteText = esp ? `See party abbreviations key <a target="_blank" href="https://dos.fl.gov/elections/candidates-committees/political-parties/">here</a>. WRI denotes "write-in."`
+        : `Ve la clave de abreviaturas de los partidos en inglés <a target="_blank" href="https://dos.fl.gov/elections/candidates-committees/political-parties/">aquí</a>. WRI significa “por escrito”.`,
+        caNoteText = esp ? `` : `Candidates are running for both the partial/unexpired term ending on Jan. 3, 2025 and the full term that follows.`,
+        colOneHed = esp ? 'Candidato' : 'Candidate',
+        colTwoHed = esp ? 'Partido' : 'Party',
         candidateData = [];
 
     // Different markets list parties differently, so these are the colors for the major parties in each market
@@ -68,7 +74,7 @@
         (c) => c["properties"]["DISTRICT"].toString() == county.toString(),
     )[0];
     const thisCountyName = thisCounty["properties"]["NAME"];
-    countyName = `${thisCountyName} County`;
+    countyName = esp ? `${thisCountyName} Condado` : `${thisCountyName} County`;
 
     // Get region (district or county) name to display above candidate list
     currentRace.subscribe((value) => {
@@ -76,7 +82,7 @@
         if (value === "President" || value === "U.S. Senate") {
             regionName = countyName;
         } else {
-            regionName = `District ${allDistricts[value]}`;
+            regionName = esp ? `Distrito ${allDistricts[value]}` : `District ${allDistricts[value]}`;
         }
     });
 
@@ -105,8 +111,8 @@
         <table id="candidate-list" cellspacing="0" cellpadding="0">
             <thead id="table-header">
                 <tr>
-                    <th>Candidate</th>
-                    <th>Party</th>
+                    <th>{colOneHed}</th>
+                    <th>{colTwoHed}</th>
                 </tr>
             </thead>
             <tbody>
@@ -137,19 +143,10 @@
         </table>
     </div>
     {#if market === "FL"}
-        <p class="note">
-            See party abbreviations key <a
-                target="”_blank”"
-                href="https://dos.fl.gov/elections/candidates-committees/political-parties/"
-                >here</a
-            >. WRI denotes "write-in."
-        </p>
+        <p class="note">{@html flNoteText}</p>
     {/if}
     {#if market === "CA" && activeRace === "U.S. Senate"}
-        <p class="note">
-            Candidates are running for both the partial/unexpired term ending on
-            Jan. 3, 2025 and the full term that follows.
-        </p>
+        <p class="note">{caNoteText}</p>
     {/if}
 </main>
 

@@ -7,6 +7,7 @@
     import Tabs from "./Tabs.svelte";
 
     export let market;
+    export let esp;
 
     /** This component displays search results for a given address. It is basically just a container for the
      * race select, candidate list and map components.
@@ -33,13 +34,13 @@
                 <p id="see-candidates">See candidates running for</p>
                 <SelectRace />
             </div>-->
-            <Tabs/>
+            <Tabs {esp}/>
             <div id="results-container">
             {#if activeRace === "Ballot Measures"}
-                <BallotMeasures/>
+                <BallotMeasures {esp}/>
             {:else}
-                <Candidates {market}/>
-                <Map {market} />
+                <Candidates {market} {esp}/>
+                <Map {market}/>
             {/if}
             </div>
         {/if}

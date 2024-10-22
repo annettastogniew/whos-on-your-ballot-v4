@@ -1,6 +1,8 @@
 <script>
     import { addressCandidateData } from "./stores";
 
+    export let esp;
+
     let ballotMeasures;
     addressCandidateData.subscribe(
         (value) =>

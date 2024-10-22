@@ -11,6 +11,7 @@
   import { fade } from "svelte/transition";
 
   export let marketStates;
+  export let esp;
 
   /** This is the search bar component. It contains everything you first see when you open the tool (prompts and search bar).
    * When an address is entered in the search bar, we call the geocodio API to return that address' coordinaties, county,
@@ -19,7 +20,13 @@
 
   let statePlaceholder = "",
     resultsMessage = "",
-    stateNames = Object.values(marketStates).join(" or "),
+    stateNames = esp
+      ? Object.values(marketStates).join(" o ")
+      : Object.values(marketStates).join(" or "),
+    instructions = esp
+      ? `Ingresa una dirección en ${stateNames} para encontrar candidatos que se postulen para un cargo en tu área.`
+      : `Enter an address in ${stateNames} to find candidates running for office in your area.`,
+    buttonTxt = esp ? "Enviar" : "Submit",
     searchPassed = false,
     loading = false;
 
@@ -77,7 +84,7 @@
           const address = result["formatted_address"];
 
           let raceDistricts = {
-            "President": fipsCode,
+            President: fipsCode,
             "U.S. Senate": fipsCode,
             "U.S. House": houseDist,
             "State Senate": stateSenDist,
@@ -94,7 +101,7 @@
             if (
               candidate["Office"] != "President" &&
               candidate["Office"] != "U.S. Senate" &&
-              candidate["Office"] != "Ballot Measures" 
+              candidate["Office"] != "Ballot Measures"
             ) {
               return (
                 raceDistricts[candidate["Office"]] == candidate["District"]
@@ -121,7 +128,7 @@
           // Show search results component
           d3.select("#search-results").style("display", "inline-block");
 
-          resultsMessage = `Showing results for ${address}.`;
+          resultsMessage = esp ? `Mostrando resultados para ${address}.` : `Showing results for ${address}.`;
         }
         // If the entered address is not in a state affiliated with this market, display an error message
         else {
@@ -140,10 +147,7 @@
 
 <main>
   <div id="search">
-    <p id="instructions">
-      Enter an address in {stateNames} to find candidates running for office in your
-      area.
-    </p>
+    <p id="instructions">{instructions}</p>
     <div id="search-input">
       <input
         id="address-input"
@@ -152,7 +156,7 @@
         on:change={search}
       />
       <button type="button" id="address-input-button" class="btn btn-primary"
-        >Submit</button
+        >{buttonTxt}</button
       >
     </div>
     <p class={searchPassed ? "msg showing-results" : "msg error"}>

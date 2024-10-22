@@ -10,8 +10,9 @@
 
   let market,
     marketData,
-    url = document.location.href,
-    marketStates;
+    esp,
+    marketStates,
+    hedText;
 
   // set mobile variable now, so we can just pull that info in all other components
   mobile.set(window.innerWidth < 700);
@@ -28,12 +29,15 @@
     DC: { DC: "District of Columbia", MD: "Maryland", VA: "Virginia" },
   };
 
-  // get market from url (or default for local development)
-  if (url == "http://localhost:5173/") {
-    market = "IL";
-  } else {
-    market = url.match(/index\.html\?market=(.*)/)[1].split("&")[0];
-  }
+  // get market from url 
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
+  market = urlParams.get("market");
+
+  // get url param for spanish or english
+  esp = urlParams.get("esp") === "y" ? true : false;
+  // headline text depending on language
+  hedText = esp ? "Encuentra a tus candidatos" : "Find your candidates";
 
   // filter data for specified market
   marketData = data.filter((row) => row["Market"] === market);
@@ -44,7 +48,7 @@
 </script>
 
 <main>
-  <h2 class="headline">Find your candidates</h2>
-  <SearchBar {marketStates} />
-  <SearchResults {market} />
+  <h2 class="headline">{hedText}</h2>
+  <SearchBar {marketStates} {esp}/>
+  <SearchResults {market} {esp}/>
 </main>
