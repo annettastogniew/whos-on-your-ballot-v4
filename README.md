@@ -43,8 +43,8 @@ To upload to Akamai, you'll have to follow a few steps.
 2. Go to `vits.config.js` and comment out the line that reads `base: '/whos-on-your-ballot-v4/',`
 2. Run `npm run build` and save changes.
 3. Somewhere on your computer, make a copy of the `dist` folder from this repo.
-4. Copy`counties.json`, `congressional-districts.json`, `state-senate-districts.json` and `state-house-districts.json` from the `src/data` folder 
-in this repo in `dist/assets`.
+4. Copy`counties.json`, `congressional-districts.json`, `state-senate-districts.json` and `state-house-districts.json` from `src/data` 
+in this repo to `dist/assets`.
 9. Navigate to the js file inside the `assets` folder.
 10. In the js file, search for "`src/data/`" and replace with "`assets/`"
 11. Save all changes.
