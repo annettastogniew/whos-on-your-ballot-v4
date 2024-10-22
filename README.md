@@ -20,7 +20,7 @@ To make changes to any part of the tool, find that tool's component and make cha
 ## Run this project
 
 To run this project locally, clone the git repository and run `npm install` (you only need to do this once), followed by `npm run dev` whenever you
-want to develop locally. The project should then display at [http://localhost:5173/](http://localhost:5173/).
+want to develop locally. The project should then display at [http://localhost:5173/whos-on-your-ballot/](http://localhost:5173/whos-on-your-ballot/).
 
 NOTE: if you see an error like this: `Uncaught TypeError: Cannot convert undefined or null to object`, double check that you have URL params specifying
 at least market, and also whether or not the tool should be in Spanish. See `App.svelte` for details on the URL params.
