@@ -2,7 +2,7 @@
   {
     "Candidate Name": "Kamala D. Harris / Tim Walz",
     "Office": "President",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.kamalaharris.com ",
     "District": "",
     "Incumbent": "No",
@@ -14,7 +14,7 @@
   {
     "Candidate Name": "Donald J. Trump / JD Vance",
     "Office": "President",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.donaldjtrump.com ",
     "District": "",
     "Incumbent": "No",
@@ -26,7 +26,7 @@
   {
     "Candidate Name": "Robert F. Kennedy Jr. / Nicole Shanahan",
     "Office": "President",
-    "Party": "IND",
+    "Party": "I",
     "Website": "https://www.mahanow.org ",
     "District": "",
     "Incumbent": "No",
@@ -38,7 +38,7 @@
   {
     "Candidate Name": "Ashley Jensen",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://m.facebook.com/p/Ashley-Jensen-for-State-Senate-61558124455881/",
     "District": 31,
     "Incumbent": "No",
@@ -50,7 +50,7 @@
   {
     "Candidate Name": "Jeff Brownfield",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.jeffbrownfield.com/jeff",
     "District": 52,
     "Incumbent": "No",
@@ -62,7 +62,7 @@
   {
     "Candidate Name": "Jason Plummer",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 55,
     "Incumbent": "Yes",
@@ -74,7 +74,7 @@
   {
     "Candidate Name": "Robert Sumrell Jr.",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.sumrellforillinois.org/",
     "District": 4,
     "Incumbent": "No",
@@ -86,7 +86,7 @@
   {
     "Candidate Name": "Jason Proctor",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.jasonforil.com/",
     "District": 20,
     "Incumbent": "No",
@@ -98,7 +98,7 @@
   {
     "Candidate Name": "Philip Nagel",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.nagel4senate.com/",
     "District": 40,
     "Incumbent": "No",
@@ -110,7 +110,7 @@
   {
     "Candidate Name": "Jennifer \"Jen\" Monson",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.jenmonson.com/",
     "District": 43,
     "Incumbent": "No",
@@ -122,7 +122,7 @@
   {
     "Candidate Name": "Katie Deane-Schlottman",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.katieforillinois.com/katie",
     "District": 49,
     "Incumbent": "No",
@@ -134,7 +134,7 @@
   {
     "Candidate Name": "Heather Brown",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.brownilsenator25.org",
     "District": 25,
     "Incumbent": "No",
@@ -146,7 +146,7 @@
   {
     "Candidate Name": "Samantha Jean Gasca",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.SamanthaGasca.com",
     "District": 19,
     "Incumbent": "No",
@@ -158,7 +158,7 @@
   {
     "Candidate Name": "Crystal Villarreal Soltow",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.crystalforillinois.com/about_crystal",
     "District": 34,
     "Incumbent": "No",
@@ -170,7 +170,7 @@
   {
     "Candidate Name": "Meg Loughran Cappel",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.megforillinois.com",
     "District": 49,
     "Incumbent": "Yes",
@@ -182,7 +182,7 @@
   {
     "Candidate Name": "Rachel Ventura",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.rachelfventura.com",
     "District": 43,
     "Incumbent": "Yes",
@@ -194,7 +194,7 @@
   {
     "Candidate Name": "Paul N. Faraci",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.paulfaraci.com",
     "District": 52,
     "Incumbent": "Yes",
@@ -206,7 +206,7 @@
   {
     "Candidate Name": "Chris Balkema",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://chrisbalkema.com/",
     "District": 53,
     "Incumbent": "No",
@@ -218,7 +218,7 @@
   {
     "Candidate Name": "Kimberly A. Lightford",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 4,
     "Incumbent": "Yes",
@@ -230,7 +230,7 @@
   {
     "Candidate Name": "Li Arellano, Jr.",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.arellanoforsenate.com/",
     "District": 37,
     "Incumbent": "No",
@@ -242,7 +242,7 @@
   {
     "Candidate Name": "Steve Stadelman",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.stevestadelman.com",
     "District": 34,
     "Incumbent": "Yes",
@@ -254,7 +254,7 @@
   {
     "Candidate Name": "Patrick Joyce",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.electpatrickjoyce.com",
     "District": 40,
     "Incumbent": "Yes",
@@ -266,7 +266,7 @@
   {
     "Candidate Name": "Sally Owens",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.sallyowensforsenate.com/",
     "District": 46,
     "Incumbent": "No",
@@ -278,7 +278,7 @@
   {
     "Candidate Name": "Dave Koehler",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.koehlerforsenate.com",
     "District": 46,
     "Incumbent": "Yes",
@@ -290,7 +290,7 @@
   {
     "Candidate Name": "Javier Loera Cervantes",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.cervantesforilsenate.com",
     "District": 1,
     "Incumbent": "Yes",
@@ -302,7 +302,7 @@
   {
     "Candidate Name": "Graciela Guzman",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://gracielafor20.com/",
     "District": 20,
     "Incumbent": "No",
@@ -314,7 +314,7 @@
   {
     "Candidate Name": "Cristina Castro",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.castroforstatesenate.org",
     "District": 22,
     "Incumbent": "Yes",
@@ -326,7 +326,7 @@
   {
     "Candidate Name": "Karina Villa",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.karinavilla.com",
     "District": 25,
     "Incumbent": "Yes",
@@ -338,7 +338,7 @@
   {
     "Candidate Name": "Laura M. Murphy",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.lauramurphyforillinois.com",
     "District": 28,
     "Incumbent": "Yes",
@@ -350,7 +350,7 @@
   {
     "Candidate Name": "Mary Edly-Allen",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.maryforil31.com",
     "District": 31,
     "Incumbent": "Yes",
@@ -362,7 +362,7 @@
   {
     "Candidate Name": "Robert Peters",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.petersforsenate.com",
     "District": 13,
     "Incumbent": "Yes",
@@ -374,7 +374,7 @@
   {
     "Candidate Name": "Willie Preston",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.electwillie.com",
     "District": 16,
     "Incumbent": "Yes",
@@ -386,7 +386,7 @@
   {
     "Candidate Name": "Michael E. Hastings",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "www.hastingsforillinois.com",
     "District": 19,
     "Incumbent": "Yes",
@@ -398,7 +398,7 @@
   {
     "Candidate Name": "Lakesia Collins",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.lakesia4senate.com",
     "District": 5,
     "Incumbent": "Yes",
@@ -410,7 +410,7 @@
   {
     "Candidate Name": "Mike Simmons",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.mikesimmons.org",
     "District": 7,
     "Incumbent": "Yes",
@@ -422,7 +422,7 @@
   {
     "Candidate Name": "Terri Bryant",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.bryantforillinois.com/",
     "District": 58,
     "Incumbent": "Yes",
@@ -434,7 +434,7 @@
   {
     "Candidate Name": "Patrick Sheehan",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://repsheehan.com/",
     "District": 37,
     "Incumbent": "Yes",
@@ -446,7 +446,7 @@
   {
     "Candidate Name": "David Gill",
     "Office": "State House",
-    "Party": "IND",
+    "Party": "I",
     "Website": "https://www.https://davidgillforstaterep.com/",
     "District": 87,
     "Incumbent": "No",
@@ -458,7 +458,7 @@
   {
     "Candidate Name": "Nicolle Grasse",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 53,
     "Incumbent": "Yes",
@@ -470,7 +470,7 @@
   {
     "Candidate Name": "Donald P. Puckett",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://don4il.com/",
     "District": 43,
     "Incumbent": "No",
@@ -482,7 +482,7 @@
   {
     "Candidate Name": "Ronald E. Andermann",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.andermannforillinois.com/",
     "District": 53,
     "Incumbent": "No",
@@ -494,7 +494,7 @@
   {
     "Candidate Name": "Carl R. Kunz",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://carlkunz4il.com/",
     "District": 31,
     "Incumbent": "No",
@@ -506,7 +506,7 @@
   {
     "Candidate Name": "John \"Jz\" Zimmers",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.zimmersforillinois.com/",
     "District": 19,
     "Incumbent": "No",
@@ -518,7 +518,7 @@
   {
     "Candidate Name": "Terry Nguyen Le",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://m.facebook.com/story.php?story_fbid=122119719032398145&id=61561944351956",
     "District": 13,
     "Incumbent": "No",
@@ -530,7 +530,7 @@
   {
     "Candidate Name": "Leslie Collazo",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 8,
     "Incumbent": "No",
@@ -542,7 +542,7 @@
   {
     "Candidate Name": "Teresa L. Alexander",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://alexfor50.com/",
     "District": 50,
     "Incumbent": "No",
@@ -554,7 +554,7 @@
   {
     "Candidate Name": "Daniel Behr",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 57,
     "Incumbent": "No",
@@ -566,7 +566,7 @@
   {
     "Candidate Name": "Jay Keeven",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://jay4illinois.com/",
     "District": 112,
     "Incumbent": "No",
@@ -578,7 +578,7 @@
   {
     "Candidate Name": "Adam M. Niemerg",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://niemergforstaterep.com/",
     "District": 102,
     "Incumbent": "Yes",
@@ -590,7 +590,7 @@
   {
     "Candidate Name": "Hannah Billingsley",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.votehannah.com",
     "District": 49,
     "Incumbent": "No",
@@ -602,7 +602,7 @@
   {
     "Candidate Name": "Charlie Helmick",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "www.helmick4house.com",
     "District": 72,
     "Incumbent": "No",
@@ -614,7 +614,7 @@
   {
     "Candidate Name": "Dennis M. Reboletti",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://rebolettiforstaterep.com/",
     "District": 45,
     "Incumbent": "No",
@@ -626,7 +626,7 @@
   {
     "Candidate Name": "Patrycja Karlin",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.karlinforillinoishouse40.com/",
     "District": 40,
     "Incumbent": "No",
@@ -638,7 +638,7 @@
   {
     "Candidate Name": "Al Rasho",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 5,
     "Incumbent": "No",
@@ -650,7 +650,7 @@
   {
     "Candidate Name": "Mark R. Albers",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://albersfor15.com/",
     "District": 15,
     "Incumbent": "No",
@@ -662,7 +662,7 @@
   {
     "Candidate Name": "Patricia Bonk",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.bonk4rep.com/",
     "District": 30,
     "Incumbent": "No",
@@ -674,7 +674,7 @@
   {
     "Candidate Name": "Sean A. Dwyer",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.dwyerforchicago.com/candidate",
     "District": 6,
     "Incumbent": "No",
@@ -686,7 +686,7 @@
   {
     "Candidate Name": "Chris Henning",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.henningfor59.com/",
     "District": 59,
     "Incumbent": "No",
@@ -698,7 +698,7 @@
   {
     "Candidate Name": "Anthony Curran",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 39,
     "Incumbent": "No",
@@ -710,7 +710,7 @@
   {
     "Candidate Name": "Jim Geldermann",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.northfieldgop.org/jim_geldermann_for_state_representative",
     "District": 17,
     "Incumbent": "No",
@@ -722,7 +722,7 @@
   {
     "Candidate Name": "Adam M. Beaty",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.beatyforillinois.com/",
     "District": 80,
     "Incumbent": "No",
@@ -734,7 +734,7 @@
   {
     "Candidate Name": "Chris Metcalfe",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.chrismetcalfeforillinoishousedistrict85.org/",
     "District": 85,
     "Incumbent": "No",
@@ -746,7 +746,7 @@
   {
     "Candidate Name": "Charles Hutchinson",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://hutchinsonforil.com/",
     "District": 18,
     "Incumbent": "No",
@@ -758,7 +758,7 @@
   {
     "Candidate Name": "Natalian Bolton",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 24,
     "Incumbent": "No",
@@ -770,7 +770,7 @@
   {
     "Candidate Name": "Audrey Barrett",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.barrett4rep.com/",
     "District": 26,
     "Incumbent": "No",
@@ -782,7 +782,7 @@
   {
     "Candidate Name": "Laura Hruska",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.hruskaforillinois.com/",
     "District": 2,
     "Incumbent": "No",
@@ -794,7 +794,7 @@
   {
     "Candidate Name": "Frederick L. Walls",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.wallsforillinois.com/",
     "District": 34,
     "Incumbent": "No",
@@ -806,7 +806,7 @@
   {
     "Candidate Name": "Steven Reick",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "www.ILikeReick.com",
     "District": 63,
     "Incumbent": "Yes",
@@ -818,7 +818,7 @@
   {
     "Candidate Name": "Heidi Henry",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.heidihenryfor75.com/",
     "District": 75,
     "Incumbent": "No",
@@ -830,7 +830,7 @@
   {
     "Candidate Name": "Carl Lambrecht",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 58,
     "Incumbent": "No",
@@ -842,7 +842,7 @@
   {
     "Candidate Name": "Herbert Hebein",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.herbforillinois.com/",
     "District": 35,
     "Incumbent": "No",
@@ -854,7 +854,7 @@
   {
     "Candidate Name": "Lisa Smith",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://lisaforillinois.com/",
     "District": 96,
     "Incumbent": "No",
@@ -866,7 +866,7 @@
   {
     "Candidate Name": "Christine Shanahan Mcgovern",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.shanahanmcgovern.com/",
     "District": 36,
     "Incumbent": "No",
@@ -878,7 +878,7 @@
   {
     "Candidate Name": "Jim Lanham",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 86,
     "Incumbent": "No",
@@ -890,7 +890,7 @@
   {
     "Candidate Name": "James Creighton Mitchell, Jr.",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://electjamesmitchell.com/",
     "District": 61,
     "Incumbent": "No",
@@ -902,7 +902,7 @@
   {
     "Candidate Name": "Jarrett Clem",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://voteclem.com/",
     "District": 104,
     "Incumbent": "No",
@@ -914,7 +914,7 @@
   {
     "Candidate Name": "Martin Mclaughlin",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "www.martyforillinois.com",
     "District": 52,
     "Incumbent": "Yes",
@@ -926,7 +926,7 @@
   {
     "Candidate Name": "Randi Olson",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.randi4illinois.com/",
     "District": 70,
     "Incumbent": "No",
@@ -938,7 +938,7 @@
   {
     "Candidate Name": "Kristen Chiaro",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://kristenchiaroforstaterep.com/",
     "District": 95,
     "Incumbent": "No",
@@ -950,7 +950,7 @@
   {
     "Candidate Name": "Peter Janko",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.pete4illinois.com",
     "District": 69,
     "Incumbent": "No",
@@ -962,7 +962,7 @@
   {
     "Candidate Name": "Chris G. Miller",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://repcmiller.com/",
     "District": 101,
     "Incumbent": "Yes",
@@ -974,7 +974,7 @@
   {
     "Candidate Name": "David Simpson",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "www.simpson4illinois.com",
     "District": 74,
     "Incumbent": "No",
@@ -986,7 +986,7 @@
   {
     "Candidate Name": "Terra Costa Howard",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.votetch.com",
     "District": 42,
     "Incumbent": "No",
@@ -998,7 +998,7 @@
   {
     "Candidate Name": "Morgan Phillips",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://morgan105.com/",
     "District": 105,
     "Incumbent": "No",
@@ -1010,7 +1010,7 @@
   {
     "Candidate Name": "Glen Oland",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "www.glenfor67.com",
     "District": 67,
     "Incumbent": "No",
@@ -1022,7 +1022,7 @@
   {
     "Candidate Name": "Nick Raftopoulos",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.nickforil-111.org",
     "District": 111,
     "Incumbent": "No",
@@ -1034,7 +1034,7 @@
   {
     "Candidate Name": "Lilian Jimenez",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.lilianforstaterep.com/",
     "District": 4,
     "Incumbent": "Yes",
@@ -1046,7 +1046,7 @@
   {
     "Candidate Name": "Anna Moeller",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://annamoeller.org/",
     "District": 43,
     "Incumbent": "Yes",
@@ -1058,7 +1058,7 @@
   {
     "Candidate Name": "Fred Crespo",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://fredcrespo.com/",
     "District": 44,
     "Incumbent": "Yes",
@@ -1070,7 +1070,7 @@
   {
     "Candidate Name": "Maura Hirschauer",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.votemaura.com/",
     "District": 49,
     "Incumbent": "Yes",
@@ -1082,7 +1082,7 @@
   {
     "Candidate Name": "Mary Beth Canty",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://marybethcanty.org/",
     "District": 54,
     "Incumbent": "Yes",
@@ -1094,7 +1094,7 @@
   {
     "Candidate Name": "Michele Hunter",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 54,
     "Incumbent": "No",
@@ -1106,7 +1106,7 @@
   {
     "Candidate Name": "Martin J. Moylan",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.staterepmoylan55.com/",
     "District": 55,
     "Incumbent": "Yes",
@@ -1118,7 +1118,7 @@
   {
     "Candidate Name": "Barbara Hernandez",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.friendsofbarbarahernandez.com/",
     "District": 50,
     "Incumbent": "Yes",
@@ -1130,7 +1130,7 @@
   {
     "Candidate Name": "Tosi Ufodike",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://tosiforrep.com/",
     "District": 51,
     "Incumbent": "No",
@@ -1142,7 +1142,7 @@
   {
     "Candidate Name": "Nabeela Syed",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.nabeelasyed.com/",
     "District": 51,
     "Incumbent": "Yes",
@@ -1154,7 +1154,7 @@
   {
     "Candidate Name": "Maria Peterson",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://mariafor52.com/",
     "District": 52,
     "Incumbent": "no",
@@ -1166,7 +1166,7 @@
   {
     "Candidate Name": "Debbie Meyers-Martin",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.repdebbiemeyersmartin.com/",
     "District": 38,
     "Incumbent": "Yes",
@@ -1178,7 +1178,7 @@
   {
     "Candidate Name": "Will Guzzardi",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.repguzzardi.com/meet-will",
     "District": 39,
     "Incumbent": "Yes",
@@ -1190,7 +1190,7 @@
   {
     "Candidate Name": "Nicholas \"Nick\" Smith",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.repsmith34.com/",
     "District": 34,
     "Incumbent": "Yes",
@@ -1202,7 +1202,7 @@
   {
     "Candidate Name": "Mary Gill",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://maryegill.com/",
     "District": 35,
     "Incumbent": "Yes",
@@ -1214,7 +1214,7 @@
   {
     "Candidate Name": "Rick Ryan",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.rickryan36district.com/",
     "District": 36,
     "Incumbent": "No",
@@ -1226,7 +1226,7 @@
   {
     "Candidate Name": "Janet Yang Rohr",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.janetforillinois.com/",
     "District": 41,
     "Incumbent": "Yes",
@@ -1238,7 +1238,7 @@
   {
     "Candidate Name": "Jaime M. Andrade, Jr.",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.staterep40.com/",
     "District": 40,
     "Incumbent": "Yes",
@@ -1250,7 +1250,7 @@
   {
     "Candidate Name": "Eva-Dina Delgado",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.delgadoforstaterep.com/",
     "District": 3,
     "Incumbent": "Yes",
@@ -1262,7 +1262,7 @@
   {
     "Candidate Name": "Martha \"Marti\" Deuter",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.martiforil45.com/",
     "District": 45,
     "Incumbent": "No",
@@ -1274,7 +1274,7 @@
   {
     "Candidate Name": "Robert \"Rusty\" Stevens",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.stevensfordupage.com/",
     "District": 46,
     "Incumbent": "No",
@@ -1286,7 +1286,7 @@
   {
     "Candidate Name": "Diane Blair-Sherlock",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.repblair-sherlock.com/",
     "District": 46,
     "Incumbent": "Yes",
@@ -1298,7 +1298,7 @@
   {
     "Candidate Name": "Amy L. Grant",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://electamygrant.com/",
     "District": 47,
     "Incumbent": "Yes",
@@ -1310,7 +1310,7 @@
   {
     "Candidate Name": "Jackie Williamson",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.jackieforil47.com/",
     "District": 47,
     "Incumbent": "No",
@@ -1322,7 +1322,7 @@
   {
     "Candidate Name": "Jennifer Sanalitro",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.sanalitroforrep.com/",
     "District": 48,
     "Incumbent": "Yes",
@@ -1334,7 +1334,7 @@
   {
     "Candidate Name": "Maria C. Vesey",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "www.mariaforil48.com",
     "District": 48,
     "Incumbent": "No",
@@ -1346,7 +1346,7 @@
   {
     "Candidate Name": "Brad Stephens",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://repstephens.com/",
     "District": 20,
     "Incumbent": "Yes",
@@ -1358,7 +1358,7 @@
   {
     "Candidate Name": "Abdelnasser Rashid",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "www.rashidforillinois.com",
     "District": 21,
     "Incumbent": "Yes",
@@ -1370,7 +1370,7 @@
   {
     "Candidate Name": "Theresa Mah",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.theresamah.com/",
     "District": 24,
     "Incumbent": "Yes",
@@ -1382,7 +1382,7 @@
   {
     "Candidate Name": "Curtis J. Tarver Ii",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://ilhousedems.com/project/rep-curtis-tarver/",
     "District": 25,
     "Incumbent": "Yes",
@@ -1394,7 +1394,7 @@
   {
     "Candidate Name": "Angie Guerrero-Cuellar",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.martyandangie.com/",
     "District": 22,
     "Incumbent": "Yes",
@@ -1406,7 +1406,7 @@
   {
     "Candidate Name": "Edgar Gonzalez, Jr.",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.edgargonzalezjr.com/",
     "District": 23,
     "Incumbent": "Yes",
@@ -1418,7 +1418,7 @@
   {
     "Candidate Name": "Kam Buckner",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.illinois26.com/",
     "District": 26,
     "Incumbent": "Yes",
@@ -1430,7 +1430,7 @@
   {
     "Candidate Name": "Justin Q. Slaughter",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://repslaughter27.com/",
     "District": 27,
     "Incumbent": "Yes",
@@ -1442,7 +1442,7 @@
   {
     "Candidate Name": "Robert \"Bob\" Rita",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://ilhousedems.com/project/rep-robert-rita/",
     "District": 28,
     "Incumbent": "Yes",
@@ -1454,7 +1454,7 @@
   {
     "Candidate Name": "Thaddeus Jones",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.repthaddeusjones.com/",
     "District": 29,
     "Incumbent": "Yes",
@@ -1466,7 +1466,7 @@
   {
     "Candidate Name": "Elizabeth \"Lisa\" Hernandez",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://ilhousedems.com/project/rep-lisa-hernandez/",
     "District": 2,
     "Incumbent": "Yes",
@@ -1478,7 +1478,7 @@
   {
     "Candidate Name": "William \"Will\" Davis",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.facebook.com/STATEREPRESENTATIVEWILLIAMDAVIS/",
     "District": 30,
     "Incumbent": "Yes",
@@ -1490,7 +1490,7 @@
   {
     "Candidate Name": "Michael Crawford",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.drmikecrawford.com/",
     "District": 31,
     "Incumbent": "No",
@@ -1502,7 +1502,7 @@
   {
     "Candidate Name": "Lisa J. Davis",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.lisadavisforstaterepresentative.com/",
     "District": 32,
     "Incumbent": "No",
@@ -1514,7 +1514,7 @@
   {
     "Candidate Name": "Marcus C. Evans, Jr.",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.ilevans.com/",
     "District": 33,
     "Incumbent": "Yes",
@@ -1526,7 +1526,7 @@
   {
     "Candidate Name": "Jason R. Bunting",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://repbunting.com/",
     "District": 106,
     "Incumbent": "Yes",
@@ -1538,7 +1538,7 @@
   {
     "Candidate Name": "Brad Halbrook",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.bradhalbrook.com",
     "District": 107,
     "Incumbent": "Yes",
@@ -1550,7 +1550,7 @@
   {
     "Candidate Name": "Wayne A. Rosenthal",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://reprosenthal.com/",
     "District": 108,
     "Incumbent": "Yes",
@@ -1562,7 +1562,7 @@
   {
     "Candidate Name": "Charlie Meier",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.charliemeier.org",
     "District": 109,
     "Incumbent": "Yes",
@@ -1574,7 +1574,7 @@
   {
     "Candidate Name": "Ann M. Williams",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "http://www.repannwilliams.com/",
     "District": 11,
     "Incumbent": "Yes",
@@ -1586,7 +1586,7 @@
   {
     "Candidate Name": "Margaret Croke",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://crokeforillinois.com/",
     "District": 12,
     "Incumbent": "Yes",
@@ -1598,7 +1598,7 @@
   {
     "Candidate Name": "Michael J. Kelly",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.kellyfor15.com/",
     "District": 15,
     "Incumbent": "Yes",
@@ -1610,7 +1610,7 @@
   {
     "Candidate Name": "Kelly M. Cassidy",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.repcassidy.com/",
     "District": 14,
     "Incumbent": "Yes",
@@ -1622,7 +1622,7 @@
   {
     "Candidate Name": "Hoan Huynh",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://votehoan.com/",
     "District": 13,
     "Incumbent": "Yes",
@@ -1634,7 +1634,7 @@
   {
     "Candidate Name": "Katie Stuart",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.stuartforilrep.com/",
     "District": 112,
     "Incumbent": "Yes",
@@ -1646,7 +1646,7 @@
   {
     "Candidate Name": "Blaine Wilhour",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://repwilhour.com/",
     "District": 110,
     "Incumbent": "Yes",
@@ -1658,7 +1658,7 @@
   {
     "Candidate Name": "Amy Elik",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.amyelik.com/about",
     "District": 111,
     "Incumbent": "Yes",
@@ -1670,7 +1670,7 @@
   {
     "Candidate Name": "Jay Hoffman",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://ilhousedems.com/project/rep-jay-hoffman/",
     "District": 113,
     "Incumbent": "Yes",
@@ -1682,7 +1682,7 @@
   {
     "Candidate Name": "Kevin Schmidt",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://schmidtforil.com/",
     "District": 114,
     "Incumbent": "Yes",
@@ -1694,7 +1694,7 @@
   {
     "Candidate Name": "Latoya Greenwood",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.latoyagreenwood.com/",
     "District": 114,
     "Incumbent": "No",
@@ -1706,7 +1706,7 @@
   {
     "Candidate Name": "David Friess",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://repfriess.com/",
     "District": 115,
     "Incumbent": "Yes",
@@ -1718,7 +1718,7 @@
   {
     "Candidate Name": "Dave Severin",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://daveseverin.com/",
     "District": 116,
     "Incumbent": "Yes",
@@ -1730,7 +1730,7 @@
   {
     "Candidate Name": "Patrick Windhorst",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.votewindhorst.com/",
     "District": 117,
     "Incumbent": "Yes",
@@ -1742,7 +1742,7 @@
   {
     "Candidate Name": "Paul Jacobs",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.jacobsforil.com/",
     "District": 118,
     "Incumbent": "Yes",
@@ -1754,7 +1754,7 @@
   {
     "Candidate Name": "Kevin John Olickal",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://staterepkevinolickal.com/",
     "District": 16,
     "Incumbent": "Yes",
@@ -1766,7 +1766,7 @@
   {
     "Candidate Name": "Jawaharial \"Omar\" Williams",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "http://www.friends4jawaharial.com/",
     "District": 10,
     "Incumbent": "Yes",
@@ -1778,7 +1778,7 @@
   {
     "Candidate Name": "Dave Vella",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.davevella.com/",
     "District": 68,
     "Incumbent": "Yes",
@@ -1790,7 +1790,7 @@
   {
     "Candidate Name": "Joe Sosnowski",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://joesosnowski.com/about/",
     "District": 69,
     "Incumbent": "Yes",
@@ -1802,7 +1802,7 @@
   {
     "Candidate Name": "Aaron M. Ortiz",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.aaronortiz.org/",
     "District": 1,
     "Incumbent": "Yes",
@@ -1814,7 +1814,7 @@
   {
     "Candidate Name": "Laurie Parman",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://laurieparman.com/",
     "District": 66,
     "Incumbent": "No",
@@ -1826,7 +1826,7 @@
   {
     "Candidate Name": "Suzanne Ness",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://citizensforsuzanneness.com/",
     "District": 66,
     "Incumbent": "Yes",
@@ -1838,7 +1838,7 @@
   {
     "Candidate Name": "Maurice A. West Ii",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.mauricewest.com",
     "District": 67,
     "Incumbent": "Yes",
@@ -1850,7 +1850,7 @@
   {
     "Candidate Name": "Dan Swanson",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://repswanson.com/",
     "District": 71,
     "Incumbent": "Yes",
@@ -1862,7 +1862,7 @@
   {
     "Candidate Name": "Sonya Marie Harper",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.repsonyaharper.com/",
     "District": 6,
     "Incumbent": "Yes",
@@ -1874,7 +1874,7 @@
   {
     "Candidate Name": "Jeff Keicher",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://keicherforrep.com/",
     "District": 70,
     "Incumbent": "Yes",
@@ -1886,7 +1886,7 @@
   {
     "Candidate Name": "Robyn Gabel",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://robynforrep.com/meet-robyn/",
     "District": 18,
     "Incumbent": "Yes",
@@ -1898,7 +1898,7 @@
   {
     "Candidate Name": "Lindsey Lapointe",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.lindseylapointe.com/",
     "District": 19,
     "Incumbent": "Yes",
@@ -1910,7 +1910,7 @@
   {
     "Candidate Name": "Jennifer Gong-Gershowitz",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.jenggforrep.com/",
     "District": 17,
     "Incumbent": "Yes",
@@ -1922,7 +1922,7 @@
   {
     "Candidate Name": "Jed Davis",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://jedforfreedom.com/",
     "District": 75,
     "Incumbent": "Yes",
@@ -1934,7 +1934,7 @@
   {
     "Candidate Name": "Liz Bishop",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://electlizbishop.com/",
     "District": 76,
     "Incumbent": "No",
@@ -1946,7 +1946,7 @@
   {
     "Candidate Name": "Amy \"Murri\" Briel",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.murriforthe76th.com",
     "District": 76,
     "Incumbent": "No",
@@ -1958,7 +1958,7 @@
   {
     "Candidate Name": "Anthony Airdo",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 77,
     "Incumbent": "No",
@@ -1970,7 +1970,7 @@
   {
     "Candidate Name": "Norma Hernandez",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.normaforstaterep.com/",
     "District": 77,
     "Incumbent": "Yes",
@@ -1982,7 +1982,7 @@
   {
     "Candidate Name": "Camille Lilly",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://ilhousedems.com/project/rep-camille-y-lilly/",
     "District": 78,
     "Incumbent": "Yes",
@@ -1994,7 +1994,7 @@
   {
     "Candidate Name": "Gregg C. Johnson",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.gregg4illinois.com/",
     "District": 72,
     "Incumbent": "Yes",
@@ -2006,7 +2006,7 @@
   {
     "Candidate Name": "Ryan Spain",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.ryanspain.com/",
     "District": 73,
     "Incumbent": "Yes",
@@ -2018,7 +2018,7 @@
   {
     "Candidate Name": "Bradley J. Fritts",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://fritts4rep.com/",
     "District": 74,
     "Incumbent": "Yes",
@@ -2030,7 +2030,7 @@
   {
     "Candidate Name": "Joyce Mason",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.votejoycemason.com/",
     "District": 61,
     "Incumbent": "Yes",
@@ -2042,7 +2042,7 @@
   {
     "Candidate Name": "Laura Faver Dias",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://laurafaverdias.com/",
     "District": 62,
     "Incumbent": "Yes",
@@ -2054,7 +2054,7 @@
   {
     "Candidate Name": "Dennis Tipsword Jr.",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://reptipsword.com/",
     "District": 105,
     "Incumbent": "Yes",
@@ -2066,7 +2066,7 @@
   {
     "Candidate Name": "Carol Ammons",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.carolammons.com/",
     "District": 103,
     "Incumbent": "Yes",
@@ -2078,7 +2078,7 @@
   {
     "Candidate Name": "Brandun Schweizer",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://repschweizer.com/",
     "District": 104,
     "Incumbent": "Yes",
@@ -2090,7 +2090,7 @@
   {
     "Candidate Name": "Mary Mahady",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://marymahady.com/",
     "District": 63,
     "Incumbent": "no",
@@ -2102,7 +2102,7 @@
   {
     "Candidate Name": "Tom Weber",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://repweber.com/",
     "District": 64,
     "Incumbent": "Yes",
@@ -2114,7 +2114,7 @@
   {
     "Candidate Name": "Dan Ugaste",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://ugasteforillinois.com/",
     "District": 65,
     "Incumbent": "Yes",
@@ -2126,7 +2126,7 @@
   {
     "Candidate Name": "Linda R Robertson",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "www.votelinda65.com",
     "District": 65,
     "Incumbent": "No",
@@ -2138,7 +2138,7 @@
   {
     "Candidate Name": "Christopher \"C.D.\" Davidsmeyer",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://cddavidsmeyer.org/",
     "District": 100,
     "Incumbent": "Yes",
@@ -2150,7 +2150,7 @@
   {
     "Candidate Name": "Rita Mayfield",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.voteritamayfield.com/",
     "District": 60,
     "Incumbent": "Yes",
@@ -2162,7 +2162,7 @@
   {
     "Candidate Name": "Emanuel \"Chris\" Welch",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.votechriswelch.com/",
     "District": 7,
     "Incumbent": "Yes",
@@ -2174,7 +2174,7 @@
   {
     "Candidate Name": "Lawrence \"Larry\" Walsh, Jr.",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://ilhousedems.com/project/rep-lawrence-walsh-jr/",
     "District": 86,
     "Incumbent": "Yes",
@@ -2186,7 +2186,7 @@
   {
     "Candidate Name": "William E Hauter",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.hauterforrep.com/",
     "District": 87,
     "Incumbent": "Yes",
@@ -2198,7 +2198,7 @@
   {
     "Candidate Name": "Dagmara \"Dee\" Avelar",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.votedee85.com/",
     "District": 85,
     "Incumbent": "Yes",
@@ -2210,7 +2210,7 @@
   {
     "Candidate Name": "Anthony Deluca",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://ilhousedems.com/project/rep-anthony-deluca/",
     "District": 80,
     "Incumbent": "Yes",
@@ -2222,7 +2222,7 @@
   {
     "Candidate Name": "Aaron Porter",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://aaronporter81.com/",
     "District": 81,
     "Incumbent": "No",
@@ -2234,7 +2234,7 @@
   {
     "Candidate Name": "Anne Stava-Murray",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.teamstavamurray.com/",
     "District": 81,
     "Incumbent": "Yes",
@@ -2246,7 +2246,7 @@
   {
     "Candidate Name": "Suzanne Akhras",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.suzanneforil.com",
     "District": 82,
     "Incumbent": "No",
@@ -2258,7 +2258,7 @@
   {
     "Candidate Name": "Nicole La Ha",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://replaha.com/",
     "District": 82,
     "Incumbent": "Yes",
@@ -2270,7 +2270,7 @@
   {
     "Candidate Name": "Matt Hanson",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://votematthanson.com/",
     "District": 83,
     "Incumbent": "Yes",
@@ -2282,7 +2282,7 @@
   {
     "Candidate Name": "Stephanie A. Kifowit",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.stephaniekifowit.org/",
     "District": 84,
     "Incumbent": "Yes",
@@ -2294,7 +2294,7 @@
   {
     "Candidate Name": "Daniel Didech",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.danieldidech.com/",
     "District": 59,
     "Incumbent": "Yes",
@@ -2306,7 +2306,7 @@
   {
     "Candidate Name": "Kimberly Neely Dubuclet",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://kim4staterep.com/",
     "District": 5,
     "Incumbent": "Yes",
@@ -2318,7 +2318,7 @@
   {
     "Candidate Name": "Jackie Haas",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://votejackie.com/",
     "District": 79,
     "Incumbent": "Yes",
@@ -2330,7 +2330,7 @@
   {
     "Candidate Name": "William \"Billy\" Morgan",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.facebook.com/BillyMorgan4StateRep/",
     "District": 79,
     "Incumbent": "No",
@@ -2342,7 +2342,7 @@
   {
     "Candidate Name": "Bob Morgan",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://bobmorganforillinois.com/",
     "District": 58,
     "Incumbent": "Yes",
@@ -2354,7 +2354,7 @@
   {
     "Candidate Name": "Michelle Mussman",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.votemichelle.org/",
     "District": 56,
     "Incumbent": "Yes",
@@ -2366,7 +2366,7 @@
   {
     "Candidate Name": "Tracy Katz Muhl",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://staterepkatzmuhl.com/",
     "District": 57,
     "Incumbent": "Yes",
@@ -2378,7 +2378,7 @@
   {
     "Candidate Name": "Sue Scherer",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://sueschererforstaterep.com/",
     "District": 96,
     "Incumbent": "Yes",
@@ -2390,7 +2390,7 @@
   {
     "Candidate Name": "Gabby Shanahan",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://team-shanahan.com/",
     "District": 97,
     "Incumbent": "No",
@@ -2402,7 +2402,7 @@
   {
     "Candidate Name": "Harry Benton",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.harrybenton.com/",
     "District": 97,
     "Incumbent": "Yes",
@@ -2414,7 +2414,7 @@
   {
     "Candidate Name": "Natalie A. Manley",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://ilhousedems.com/project/rep-natalie-manley/",
     "District": 98,
     "Incumbent": "Yes",
@@ -2426,7 +2426,7 @@
   {
     "Candidate Name": "Regan Deering",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.reganforillinois.com/",
     "District": 88,
     "Incumbent": "No",
@@ -2438,7 +2438,7 @@
   {
     "Candidate Name": "Tony M. Mccombie",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.mccombieforillinois.com/",
     "District": 89,
     "Incumbent": "Yes",
@@ -2450,7 +2450,7 @@
   {
     "Candidate Name": "La Shawn K. Ford",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://lashawnkford.com/",
     "District": 8,
     "Incumbent": "Yes",
@@ -2462,7 +2462,7 @@
   {
     "Candidate Name": "John M. Cabello",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://johncabello.com/",
     "District": 90,
     "Incumbent": "Yes",
@@ -2474,7 +2474,7 @@
   {
     "Candidate Name": "Desi Anderson",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.desiforillinois.com/",
     "District": 91,
     "Incumbent": "No",
@@ -2486,7 +2486,7 @@
   {
     "Candidate Name": "Sharon Chung",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.chungforillinois.com/",
     "District": 91,
     "Incumbent": "Yes",
@@ -2498,7 +2498,7 @@
   {
     "Candidate Name": "Jehan Gordon-Booth",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.http://repgordonbooth.com/",
     "District": 92,
     "Incumbent": "Yes",
@@ -2510,7 +2510,7 @@
   {
     "Candidate Name": "Travis Robert Weaver",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://repweaver.com/",
     "District": 93,
     "Incumbent": "Yes",
@@ -2522,7 +2522,7 @@
   {
     "Candidate Name": "Norine K. Hammond",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.citizensforhammond.com/",
     "District": 94,
     "Incumbent": "Yes",
@@ -2534,7 +2534,7 @@
   {
     "Candidate Name": "Mike Coffey",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://repcoffey.com/",
     "District": 95,
     "Incumbent": "Yes",
@@ -2546,7 +2546,7 @@
   {
     "Candidate Name": "Kyle A. Moore",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.moore4illinois.com/",
     "District": 99,
     "Incumbent": "No",
@@ -2558,7 +2558,7 @@
   {
     "Candidate Name": "Yolonda Morris",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://m.facebook.com/p/State-Representative-Yolonda-Morris-61556096154242/",
     "District": 9,
     "Incumbent": "Yes",
@@ -2570,7 +2570,7 @@
   {
     "Candidate Name": "Ed Hershey",
     "Office": "U.S. House",
-    "Party": "WCP",
+    "Party": "W",
     "Website": "www.workingclassfight.com",
     "District": 4,
     "Incumbent": "No",
@@ -2582,7 +2582,7 @@
   {
     "Candidate Name": "Lupe Castillo",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://lupe4congress.com/",
     "District": 4,
     "Incumbent": "No",
@@ -2594,7 +2594,7 @@
   {
     "Candidate Name": "Seth Alan Cohen",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "www.sethalancohen.com",
     "District": 9,
     "Incumbent": "No",
@@ -2606,7 +2606,7 @@
   {
     "Candidate Name": "John Booras",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://boorasforcongress.com/",
     "District": 3,
     "Incumbent": "No",
@@ -2618,7 +2618,7 @@
   {
     "Candidate Name": "Joe Mcgraw",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://judgejoeforcongress.com/",
     "District": 17,
     "Incumbent": "No",
@@ -2630,7 +2630,7 @@
   {
     "Candidate Name": "Brian Roberts",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.facebook.com/p/Brian-Roberts-for-Congress-61553873409644/",
     "District": 12,
     "Incumbent": "No",
@@ -2642,7 +2642,7 @@
   {
     "Candidate Name": "Jim Carris",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://carrisforcongress.com/",
     "District": 10,
     "Incumbent": "No",
@@ -2654,7 +2654,7 @@
   {
     "Candidate Name": "Jonathan L. Jackson",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 1,
     "Incumbent": "Yes",
@@ -2666,7 +2666,7 @@
   {
     "Candidate Name": "Eric Sorensen",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.ericforillinois.com/",
     "District": 17,
     "Incumbent": "Yes",
@@ -2678,7 +2678,7 @@
   {
     "Candidate Name": "Chad Koppie",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.koppieforcongress.com/",
     "District": 7,
     "Incumbent": "No",
@@ -2690,7 +2690,7 @@
   {
     "Candidate Name": "Mary E. Miller",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.marymillerforcongress.com",
     "District": 15,
     "Incumbent": "Yes",
@@ -2702,7 +2702,7 @@
   {
     "Candidate Name": "Jesus \"Chuy\" Garcia",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "www.chuyforcongress.com",
     "District": 4,
     "Incumbent": "Yes",
@@ -2714,7 +2714,7 @@
   {
     "Candidate Name": "Delia Ramirez",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.deliaforcongress.com",
     "District": 3,
     "Incumbent": "Yes",
@@ -2726,7 +2726,7 @@
   {
     "Candidate Name": "Ashley Ramos",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.electashleyramos.com",
     "District": 2,
     "Incumbent": "No",
@@ -2738,7 +2738,7 @@
   {
     "Candidate Name": "Robin Kelly",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.robinkellyforcongress.org",
     "District": 2,
     "Incumbent": "Yes",
@@ -2750,7 +2750,7 @@
   {
     "Candidate Name": "Jerry Evans",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.jerryevansforcongress.com",
     "District": 11,
     "Incumbent": "No",
@@ -2762,7 +2762,7 @@
   {
     "Candidate Name": "Bill Foster",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.billfoster.com",
     "District": 11,
     "Incumbent": "Yes",
@@ -2774,7 +2774,7 @@
   {
     "Candidate Name": "Mike Bost",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.http://bostforcongress.com/",
     "District": 12,
     "Incumbent": "Yes",
@@ -2786,7 +2786,7 @@
   {
     "Candidate Name": "James T. \"Jim\" Marter",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.Marter4Congress.us",
     "District": 14,
     "Incumbent": "No",
@@ -2798,7 +2798,7 @@
   {
     "Candidate Name": "Lauren Underwood",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://underwoodforcongress.com/",
     "District": 14,
     "Incumbent": "Yes",
@@ -2810,7 +2810,7 @@
   {
     "Candidate Name": "Joshua Loyd",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.loydforcongress.com",
     "District": 13,
     "Incumbent": "No",
@@ -2822,7 +2822,7 @@
   {
     "Candidate Name": "Nikki Budzinski",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://nikkiforcongress.com/",
     "District": 13,
     "Incumbent": "Yes",
@@ -2834,7 +2834,7 @@
   {
     "Candidate Name": "Darin Lahood",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.https://lahoodforcongress.com/",
     "District": 16,
     "Incumbent": "Yes",
@@ -2846,7 +2846,7 @@
   {
     "Candidate Name": "Brad Schneider",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.schneiderforcongress.com/",
     "District": 10,
     "Incumbent": "Yes",
@@ -2858,7 +2858,7 @@
   {
     "Candidate Name": "Niki Conforti",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.conforti4congress.com",
     "District": 6,
     "Incumbent": "No",
@@ -2870,7 +2870,7 @@
   {
     "Candidate Name": "Sean Casten",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.castenforcongress.com",
     "District": 6,
     "Incumbent": "Yes",
@@ -2882,7 +2882,7 @@
   {
     "Candidate Name": "Marcus Lewis",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.marcuslewisforcongress.org",
     "District": 1,
     "Incumbent": "No",
@@ -2894,7 +2894,7 @@
   {
     "Candidate Name": "Danny K. Davis",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "www.dannykdavis.com",
     "District": 7,
     "Incumbent": "Yes",
@@ -2906,7 +2906,7 @@
   {
     "Candidate Name": "Tommy Hanson",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "www.votetommyhanson.com",
     "District": 5,
     "Incumbent": "No",
@@ -2918,7 +2918,7 @@
   {
     "Candidate Name": "Mike Quigley",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://quigleyforcongress.com/",
     "District": 5,
     "Incumbent": "Yes",
@@ -2930,7 +2930,7 @@
   {
     "Candidate Name": "Mark Rice",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "www.rice4congress.com",
     "District": 8,
     "Incumbent": "No",
@@ -2942,7 +2942,7 @@
   {
     "Candidate Name": "Raja Krishnamoorthi",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.https://rajaforcongress.com/",
     "District": 8,
     "Incumbent": "Yes",
@@ -2954,7 +2954,7 @@
   {
     "Candidate Name": "Janice D. Schakowsky",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.janschakowsky.org",
     "District": 9,
     "Incumbent": "Yes",
@@ -7116,9 +7116,81 @@
     "Market": "FL"
   },
   {
+    "Candidate Name": "Ballot Measure 1",
+    "Office": "Ballot Measures",
+    "Party": "",
+    "Website": "",
+    "District": "",
+    "Incumbent": "",
+    "Measure Name": "Partisan election of Members of District School Boards",
+    "Measure Question": "Proposing amendments to the State Constitution to require members of a district school board to be elected in a partisan election rather than a nonpartisan election and to specify that the amendment only applies to elections held on or after the November 2026 general election. However, partisan primary elections may occur before the 2026 general election for purposes of nominating political party candidates to that office for placement on the 2026 general election ballot.",
+    "Lang": "Eng",
+    "Market": "FL"
+  },
+  {
+    "Candidate Name": "Ballot Measure 2",
+    "Office": "Ballot Measures",
+    "Party": "",
+    "Website": "",
+    "District": "",
+    "Incumbent": "",
+    "Measure Name": "Right to Fish and Hunt",
+    "Measure Question": "Proposing an amendment to the State Constitution to preserve forever fishing and hunting, including by the use of traditional methods, as a public right and preferred means of responsibly managing and controlling fish and wildlife. Specifies that the amendment does not limit the authority granted to the Fish and Wildlife Conservation Commission under Section of Article IV of the State Constitution.",
+    "Lang": "Eng",
+    "Market": "FL"
+  },
+  {
+    "Candidate Name": "Ballot Measure 3",
+    "Office": "Ballot Measures",
+    "Party": "",
+    "Website": "",
+    "District": "",
+    "Incumbent": "",
+    "Measure Name": "Adult Personal Use of Marijuana",
+    "Measure Question": "Allows adults 21 years or older to possess, purchase, or use marijuana products and marijuana accessories for non-medical personal consumption by smoking, ingestion, or otherwise; allows Medical Marijuana Treatment Centers, and other state licensed entities, to acquire, cultivate, process, manufacture, sell, and distribute such products and accessories. Applies to Florida law; does not change, or immunize violations of, federal law. Establishes possession limits for personal use. Allows consistent legislation. Defines terms. Provides effective date.",
+    "Lang": "Eng",
+    "Market": "FL"
+  },
+  {
+    "Candidate Name": "Ballot Measure 4",
+    "Office": "Ballot Measures",
+    "Party": "",
+    "Website": "",
+    "District": "",
+    "Incumbent": "",
+    "Measure Name": "Amendment to Limit Government Interference with Abortion",
+    "Measure Question": "No law shall prohibit, penalize, delay, or restrict abortion before viability or when necessary to protect the patient\u2019s health, as determined by the patient\u2019s healthcare provider. This amendment does not change the Legislature\u2019s constitutional authority to require notification to a parent or guardian before a minor has an abortion.",
+    "Lang": "Eng",
+    "Market": "FL"
+  },
+  {
+    "Candidate Name": "Ballot Measure 5",
+    "Office": "Ballot Measures",
+    "Party": "",
+    "Website": "",
+    "District": "",
+    "Incumbent": "",
+    "Measure Name": "Annual Adjustments to the Value of Certain Homestead Exemptions",
+    "Measure Question": "Proposing an amendment to the State Constitution to require an annual adjustment for inflation to the value of current or future homestead exemptions that apply solely to levies other than school district levies and for which every person who has legal or equitable title to real estate and maintains thereon the permanent residence of the owner, or another person legally or naturally dependent upon the owner is eligible. This amendment takes effect January 1, 2025.",
+    "Lang": "Eng",
+    "Market": "FL"
+  },
+  {
+    "Candidate Name": "Ballot Measure 6",
+    "Office": "Ballot Measures",
+    "Party": "",
+    "Website": "",
+    "District": "",
+    "Incumbent": "",
+    "Measure Name": "Repeal of Public Campaign Financing Requirement",
+    "Measure Question": "Proposing the repeal of the provision in the State Constitution which requires public financing for campaigns of candidates for elective statewide office who agree to campaign spending limits.",
+    "Lang": "Eng",
+    "Market": "FL"
+  },
+  {
     "Candidate Name": "Kamala D. Harris / Tim Walz",
     "Office": "President",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "https://www.kamalaharris.com ",
     "District": "",
     "Incumbent": "No",
@@ -7130,7 +7202,7 @@
   {
     "Candidate Name": "Donald J. Trump / JD Vance",
     "Office": "President",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "https://www.donaldjtrump.com ",
     "District": "",
     "Incumbent": "No",
@@ -7142,7 +7214,7 @@
   {
     "Candidate Name": "Robert F. Kennedy Jr. / Nicole Shanahan",
     "Office": "President",
-    "Party": "IND",
+    "Party": "I",
     "Website": "https://www.mahanow.org ",
     "District": "",
     "Incumbent": "No",
@@ -7154,7 +7226,7 @@
   {
     "Candidate Name": "Jill Stein / Rudolph Ware",
     "Office": "President",
-    "Party": "GRE",
+    "Party": "G",
     "Website": "https://www.jillstein2024.com/",
     "District": "",
     "Incumbent": "No",
@@ -7166,7 +7238,7 @@
   {
     "Candidate Name": "Chase Oliver / Mike ter Maat",
     "Office": "President",
-    "Party": "LIB",
+    "Party": "L",
     "Website": "https://www.https://votechaseoliver.com/",
     "District": "",
     "Incumbent": "No",
@@ -7178,7 +7250,7 @@
   {
     "Candidate Name": "Claudia De la Cruz / Karina Garcia",
     "Office": "President",
-    "Party": "PFP",
+    "Party": "P",
     "Website": "https://www.https://votesocialist2024.com/",
     "District": "",
     "Incumbent": "No",
@@ -7190,7 +7262,7 @@
   {
     "Candidate Name": "Adam B. Schiff",
     "Office": "U.S. Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": "",
     "Incumbent": "No",
@@ -7202,7 +7274,7 @@
   {
     "Candidate Name": "Steve Garvey",
     "Office": "U.S. Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": "",
     "Incumbent": "No",
@@ -7214,7 +7286,7 @@
   {
     "Candidate Name": "Rose Penelope Yee",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 1,
     "Incumbent": "No",
@@ -7226,7 +7298,7 @@
   {
     "Candidate Name": "Doug LaMalfa",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 1,
     "Incumbent": "Yes",
@@ -7238,7 +7310,7 @@
   {
     "Candidate Name": "Jared Huffman",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 2,
     "Incumbent": "Yes",
@@ -7250,7 +7322,7 @@
   {
     "Candidate Name": "Chris Coulombe",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 2,
     "Incumbent": "No",
@@ -7262,7 +7334,7 @@
   {
     "Candidate Name": "Jessica Morse",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 3,
     "Incumbent": "No",
@@ -7274,7 +7346,7 @@
   {
     "Candidate Name": "Kevin Kiley",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 3,
     "Incumbent": "Yes",
@@ -7286,7 +7358,7 @@
   {
     "Candidate Name": "Mike Thompson",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 4,
     "Incumbent": "Yes",
@@ -7298,7 +7370,7 @@
   {
     "Candidate Name": "John Munn",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 4,
     "Incumbent": "No",
@@ -7310,7 +7382,7 @@
   {
     "Candidate Name": "Micheal J. \"Mike\" Barkley",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 5,
     "Incumbent": "No",
@@ -7322,7 +7394,7 @@
   {
     "Candidate Name": "Tom McClintock",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 5,
     "Incumbent": "Yes",
@@ -7334,7 +7406,7 @@
   {
     "Candidate Name": "Ami Bera",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 6,
     "Incumbent": "Yes",
@@ -7346,7 +7418,7 @@
   {
     "Candidate Name": "Christine Bish",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 6,
     "Incumbent": "No",
@@ -7358,7 +7430,7 @@
   {
     "Candidate Name": "Doris Matsui",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 7,
     "Incumbent": "Yes",
@@ -7370,7 +7442,7 @@
   {
     "Candidate Name": "Tom Silva",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 7,
     "Incumbent": "No",
@@ -7382,7 +7454,7 @@
   {
     "Candidate Name": "John Garamendi",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 8,
     "Incumbent": "Yes",
@@ -7394,7 +7466,7 @@
   {
     "Candidate Name": "Rudy Recile",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 8,
     "Incumbent": "No",
@@ -7406,7 +7478,7 @@
   {
     "Candidate Name": "Josh Harder",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 9,
     "Incumbent": "Yes",
@@ -7418,7 +7490,7 @@
   {
     "Candidate Name": "Kevin Lincoln",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 9,
     "Incumbent": "No",
@@ -7430,7 +7502,7 @@
   {
     "Candidate Name": "Mark DeSaulnier",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 10,
     "Incumbent": "Yes",
@@ -7442,7 +7514,7 @@
   {
     "Candidate Name": "Katherine Piccinini",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 10,
     "Incumbent": "No",
@@ -7454,7 +7526,7 @@
   {
     "Candidate Name": "Nancy Pelosi",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 11,
     "Incumbent": "Yes",
@@ -7466,7 +7538,7 @@
   {
     "Candidate Name": "Bruce Lou",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 11,
     "Incumbent": "No",
@@ -7478,7 +7550,7 @@
   {
     "Candidate Name": "Lateefah Simon",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 12,
     "Incumbent": "No",
@@ -7490,7 +7562,7 @@
   {
     "Candidate Name": "Jennifer Tran",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 12,
     "Incumbent": "No",
@@ -7502,7 +7574,7 @@
   {
     "Candidate Name": "Adam Gray",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 13,
     "Incumbent": "No",
@@ -7514,7 +7586,7 @@
   {
     "Candidate Name": "John Duarte",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 13,
     "Incumbent": "Yes",
@@ -7526,7 +7598,7 @@
   {
     "Candidate Name": "Eric Swalwell",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 14,
     "Incumbent": "Yes",
@@ -7538,7 +7610,7 @@
   {
     "Candidate Name": "Vin Kruttiventi",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 14,
     "Incumbent": "No",
@@ -7550,7 +7622,7 @@
   {
     "Candidate Name": "Kevin Mullin",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 15,
     "Incumbent": "Yes",
@@ -7562,7 +7634,7 @@
   {
     "Candidate Name": "Anna Cheng Kramer",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 15,
     "Incumbent": "No",
@@ -7574,7 +7646,7 @@
   {
     "Candidate Name": "Sam Liccardo",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 16,
     "Incumbent": "No",
@@ -7586,7 +7658,7 @@
   {
     "Candidate Name": "Evan Low",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 16,
     "Incumbent": "No",
@@ -7598,7 +7670,7 @@
   {
     "Candidate Name": "Ro Khanna",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 17,
     "Incumbent": "Yes",
@@ -7610,7 +7682,7 @@
   {
     "Candidate Name": "Anita Chen",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 17,
     "Incumbent": "No",
@@ -7622,7 +7694,7 @@
   {
     "Candidate Name": "Zoe Lofgren",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 18,
     "Incumbent": "Yes",
@@ -7634,7 +7706,7 @@
   {
     "Candidate Name": "Peter D. Hernandez",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 18,
     "Incumbent": "No",
@@ -7646,7 +7718,7 @@
   {
     "Candidate Name": "Jimmy Panetta",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 19,
     "Incumbent": "Yes",
@@ -7658,7 +7730,7 @@
   {
     "Candidate Name": "Jason Michael Anderson",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 19,
     "Incumbent": "No",
@@ -7670,7 +7742,7 @@
   {
     "Candidate Name": "Mike Boudreaux",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 20,
     "Incumbent": "No",
@@ -7682,7 +7754,7 @@
   {
     "Candidate Name": "Vince Fong",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 20,
     "Incumbent": "Yes",
@@ -7694,7 +7766,7 @@
   {
     "Candidate Name": "Jim Costa",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 21,
     "Incumbent": "Yes",
@@ -7706,7 +7778,7 @@
   {
     "Candidate Name": "Micheal Maher",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 21,
     "Incumbent": "No",
@@ -7718,7 +7790,7 @@
   {
     "Candidate Name": "Rudy Salas",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 22,
     "Incumbent": "No",
@@ -7730,7 +7802,7 @@
   {
     "Candidate Name": "David G. Valadao",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 22,
     "Incumbent": "Yes",
@@ -7742,7 +7814,7 @@
   {
     "Candidate Name": "Derek Marshall",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 23,
     "Incumbent": "No",
@@ -7754,7 +7826,7 @@
   {
     "Candidate Name": "Jay Obernolte",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 23,
     "Incumbent": "Yes",
@@ -7766,7 +7838,7 @@
   {
     "Candidate Name": "Salud Carbajal",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 24,
     "Incumbent": "Yes",
@@ -7778,7 +7850,7 @@
   {
     "Candidate Name": "Thomas Cole",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 24,
     "Incumbent": "No",
@@ -7790,7 +7862,7 @@
   {
     "Candidate Name": "Raul Ruiz",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 25,
     "Incumbent": "Yes",
@@ -7802,7 +7874,7 @@
   {
     "Candidate Name": "Ian M. Weeks",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 25,
     "Incumbent": "No",
@@ -7814,7 +7886,7 @@
   {
     "Candidate Name": "Julia Brownley",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 26,
     "Incumbent": "Yes",
@@ -7826,7 +7898,7 @@
   {
     "Candidate Name": "Micheal Koslow",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 26,
     "Incumbent": "No",
@@ -7838,7 +7910,7 @@
   {
     "Candidate Name": "George Whitesides",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 27,
     "Incumbent": "No",
@@ -7850,7 +7922,7 @@
   {
     "Candidate Name": "Mike Garcia",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 27,
     "Incumbent": "Yes",
@@ -7862,7 +7934,7 @@
   {
     "Candidate Name": "Judy Chu",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 28,
     "Incumbent": "Yes",
@@ -7874,7 +7946,7 @@
   {
     "Candidate Name": "April A. Verlato",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 28,
     "Incumbent": "No",
@@ -7886,7 +7958,7 @@
   {
     "Candidate Name": "Luz Maria Rivas",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 29,
     "Incumbent": "No",
@@ -7898,7 +7970,7 @@
   {
     "Candidate Name": "Benito Benny Bernal",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 29,
     "Incumbent": "No",
@@ -7910,7 +7982,7 @@
   {
     "Candidate Name": "Laura Friedman",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 30,
     "Incumbent": "No",
@@ -7922,7 +7994,7 @@
   {
     "Candidate Name": "Alex Balekian",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 30,
     "Incumbent": "No",
@@ -7934,7 +8006,7 @@
   {
     "Candidate Name": "Gil Cisneros",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 31,
     "Incumbent": "No",
@@ -7946,7 +8018,7 @@
   {
     "Candidate Name": "Daniel Jose Bocic Martinez",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 31,
     "Incumbent": "No",
@@ -7958,7 +8030,7 @@
   {
     "Candidate Name": "Brad Sherman",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 32,
     "Incumbent": "Yes",
@@ -7970,7 +8042,7 @@
   {
     "Candidate Name": "Larry Thompson",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 32,
     "Incumbent": "No",
@@ -7982,7 +8054,7 @@
   {
     "Candidate Name": "Pete Aguilar",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 33,
     "Incumbent": "Yes",
@@ -7994,7 +8066,7 @@
   {
     "Candidate Name": "Tom Herman",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 33,
     "Incumbent": "No",
@@ -8006,7 +8078,7 @@
   {
     "Candidate Name": "Jimmy Gomez",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 34,
     "Incumbent": "Yes",
@@ -8018,7 +8090,7 @@
   {
     "Candidate Name": "David Kim",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 34,
     "Incumbent": "No",
@@ -8030,7 +8102,7 @@
   {
     "Candidate Name": "Norma J. Torres",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 35,
     "Incumbent": "Yes",
@@ -8042,7 +8114,7 @@
   {
     "Candidate Name": "Mike Cargile",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 35,
     "Incumbent": "No",
@@ -8054,7 +8126,7 @@
   {
     "Candidate Name": "Ted W. Lieu",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 36,
     "Incumbent": "Yes",
@@ -8066,7 +8138,7 @@
   {
     "Candidate Name": "Melissa Toomim",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 36,
     "Incumbent": "No",
@@ -8078,7 +8150,7 @@
   {
     "Candidate Name": "Sydney Kamlager-Dove",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 37,
     "Incumbent": "Yes",
@@ -8090,7 +8162,7 @@
   {
     "Candidate Name": "Juan Rey",
     "Office": "U.S. House",
-    "Party": "NPP",
+    "Party": "N/A",
     "Website": "",
     "District": 37,
     "Incumbent": "No",
@@ -8102,7 +8174,7 @@
   {
     "Candidate Name": "Linda T. S\u00e1nchez",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 38,
     "Incumbent": "Yes",
@@ -8114,7 +8186,7 @@
   {
     "Candidate Name": "Eric J. Ching",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 38,
     "Incumbent": "No",
@@ -8126,7 +8198,7 @@
   {
     "Candidate Name": "Mark Takano",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 39,
     "Incumbent": "Yes",
@@ -8138,7 +8210,7 @@
   {
     "Candidate Name": "David Serpa",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 39,
     "Incumbent": "No",
@@ -8150,7 +8222,7 @@
   {
     "Candidate Name": "Joe Kerr",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 40,
     "Incumbent": "No",
@@ -8162,7 +8234,7 @@
   {
     "Candidate Name": "Young Kim",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 40,
     "Incumbent": "Yes",
@@ -8174,7 +8246,7 @@
   {
     "Candidate Name": "Will Rollins",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 41,
     "Incumbent": "No",
@@ -8186,7 +8258,7 @@
   {
     "Candidate Name": "Ken Calvert",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 41,
     "Incumbent": "Yes",
@@ -8198,7 +8270,7 @@
   {
     "Candidate Name": "Robert Garcia",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 42,
     "Incumbent": "Yes",
@@ -8210,7 +8282,7 @@
   {
     "Candidate Name": "John Briscoe",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 42,
     "Incumbent": "No",
@@ -8222,7 +8294,7 @@
   {
     "Candidate Name": "Maxine Waters",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 43,
     "Incumbent": "Yes",
@@ -8234,7 +8306,7 @@
   {
     "Candidate Name": "Steve Williams",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 43,
     "Incumbent": "No",
@@ -8246,7 +8318,7 @@
   {
     "Candidate Name": "Nanette Diaz Barrag\u00e1n",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 44,
     "Incumbent": "Yes",
@@ -8258,7 +8330,7 @@
   {
     "Candidate Name": "Roger Groh",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 44,
     "Incumbent": "No",
@@ -8270,7 +8342,7 @@
   {
     "Candidate Name": "Derek Tran",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 45,
     "Incumbent": "No",
@@ -8282,7 +8354,7 @@
   {
     "Candidate Name": "Michelle Steel",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 45,
     "Incumbent": "Yes",
@@ -8294,7 +8366,7 @@
   {
     "Candidate Name": "Lou Correa",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 46,
     "Incumbent": "Yes",
@@ -8306,7 +8378,7 @@
   {
     "Candidate Name": "David Pan",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 46,
     "Incumbent": "No",
@@ -8318,7 +8390,7 @@
   {
     "Candidate Name": "Dave Min",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 47,
     "Incumbent": "No",
@@ -8330,7 +8402,7 @@
   {
     "Candidate Name": "Scott Baugh",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 47,
     "Incumbent": "No",
@@ -8342,7 +8414,7 @@
   {
     "Candidate Name": "Stephen Houlahan",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 48,
     "Incumbent": "No",
@@ -8354,7 +8426,7 @@
   {
     "Candidate Name": "Darrell E. Issa",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 48,
     "Incumbent": "Yes",
@@ -8366,7 +8438,7 @@
   {
     "Candidate Name": "Mike Levin",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 49,
     "Incumbent": "Yes",
@@ -8378,7 +8450,7 @@
   {
     "Candidate Name": "Matt Gunderson",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 49,
     "Incumbent": "No",
@@ -8390,7 +8462,7 @@
   {
     "Candidate Name": "Scott Peters",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 50,
     "Incumbent": "Yes",
@@ -8402,7 +8474,7 @@
   {
     "Candidate Name": "Peter J. Bono",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 50,
     "Incumbent": "No",
@@ -8414,7 +8486,7 @@
   {
     "Candidate Name": "Sara Jacobs",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 51,
     "Incumbent": "Yes",
@@ -8426,7 +8498,7 @@
   {
     "Candidate Name": "Bill Wells",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 51,
     "Incumbent": "No",
@@ -8438,7 +8510,7 @@
   {
     "Candidate Name": "Juan Vergas",
     "Office": "U.S. House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 52,
     "Incumbent": "Yes",
@@ -8450,7 +8522,7 @@
   {
     "Candidate Name": "Justin Lee",
     "Office": "U.S. House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 52,
     "Incumbent": "No",
@@ -8462,7 +8534,7 @@
   {
     "Candidate Name": "Megan Dahle",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 1,
     "Incumbent": "No",
@@ -8474,7 +8546,7 @@
   {
     "Candidate Name": "David Fennell",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 1,
     "Incumbent": "No",
@@ -8486,7 +8558,7 @@
   {
     "Candidate Name": "Christopher Cabaldon",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 3,
     "Incumbent": "No",
@@ -8498,7 +8570,7 @@
   {
     "Candidate Name": "Thom Bogue",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 3,
     "Incumbent": "No",
@@ -8510,7 +8582,7 @@
   {
     "Candidate Name": "Jerry McNerney",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 5,
     "Incumbent": "No",
@@ -8522,7 +8594,7 @@
   {
     "Candidate Name": "Jim Shoemaker",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 5,
     "Incumbent": "No",
@@ -8534,7 +8606,7 @@
   {
     "Candidate Name": "Jesse Arreguin",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 7,
     "Incumbent": "No",
@@ -8546,7 +8618,7 @@
   {
     "Candidate Name": "Jovanka Beckles",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 7,
     "Incumbent": "No",
@@ -8558,7 +8630,7 @@
   {
     "Candidate Name": "Tim Grayson",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 9,
     "Incumbent": "No",
@@ -8570,7 +8642,7 @@
   {
     "Candidate Name": "Marisol Rubio",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 9,
     "Incumbent": "No",
@@ -8582,7 +8654,7 @@
   {
     "Candidate Name": "Scott Wiener",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 11,
     "Incumbent": "Yes",
@@ -8594,7 +8666,7 @@
   {
     "Candidate Name": "Yvette Corkrean",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 11,
     "Incumbent": "No",
@@ -8606,7 +8678,7 @@
   {
     "Candidate Name": "Josh Becker",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 13,
     "Incumbent": "Yes",
@@ -8618,7 +8690,7 @@
   {
     "Candidate Name": "Alexander Glew",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 13,
     "Incumbent": "No",
@@ -8630,7 +8702,7 @@
   {
     "Candidate Name": "Dave Cortese",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 15,
     "Incumbent": "Yes",
@@ -8642,7 +8714,7 @@
   {
     "Candidate Name": "Robert Paul Howell",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 15,
     "Incumbent": "No",
@@ -8654,7 +8726,7 @@
   {
     "Candidate Name": "John Laird",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 17,
     "Incumbent": "Yes",
@@ -8666,7 +8738,7 @@
   {
     "Candidate Name": "Tony Virrueta",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 17,
     "Incumbent": "No",
@@ -8678,7 +8750,7 @@
   {
     "Candidate Name": "Lisa Middleton",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 19,
     "Incumbent": "No",
@@ -8690,7 +8762,7 @@
   {
     "Candidate Name": "Rosilicie Ochoa Bogh",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 19,
     "Incumbent": "Yes",
@@ -8702,7 +8774,7 @@
   {
     "Candidate Name": "S. Monique Lim\u00f3n",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 21,
     "Incumbent": "Yes",
@@ -8714,7 +8786,7 @@
   {
     "Candidate Name": "Elijah Mack",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 21,
     "Incumbent": "No",
@@ -8726,7 +8798,7 @@
   {
     "Candidate Name": "Kipp Mueller",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 23,
     "Incumbent": "No",
@@ -8738,7 +8810,7 @@
   {
     "Candidate Name": "Suzette Martinez Valladares",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 23,
     "Incumbent": "No",
@@ -8750,7 +8822,7 @@
   {
     "Candidate Name": "Sasha Ren\u00e9e P\u00e9rez",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 25,
     "Incumbent": "No",
@@ -8762,7 +8834,7 @@
   {
     "Candidate Name": "Elizabeth Wong Ahlers",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 25,
     "Incumbent": "No",
@@ -8774,7 +8846,7 @@
   {
     "Candidate Name": "Henry Stern",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 27,
     "Incumbent": "Yes",
@@ -8786,7 +8858,7 @@
   {
     "Candidate Name": "Lucie Volotzky",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 27,
     "Incumbent": "No",
@@ -8798,7 +8870,7 @@
   {
     "Candidate Name": "Eloise Gomez Reyes",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 29,
     "Incumbent": "No",
@@ -8810,7 +8882,7 @@
   {
     "Candidate Name": "Carlos A. Garcia",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 29,
     "Incumbent": "No",
@@ -8822,7 +8894,7 @@
   {
     "Candidate Name": "Sabrina Cervantes",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 31,
     "Incumbent": "No",
@@ -8834,7 +8906,7 @@
   {
     "Candidate Name": "Cynthia Navarro",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 31,
     "Incumbent": "No",
@@ -8846,7 +8918,7 @@
   {
     "Candidate Name": "Lena A. Gonzalez",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 33,
     "Incumbent": "Yes",
@@ -8858,7 +8930,7 @@
   {
     "Candidate Name": "Mario Paz",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 33,
     "Incumbent": "No",
@@ -8870,7 +8942,7 @@
   {
     "Candidate Name": "Michelle Chambers",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 35,
     "Incumbent": "No",
@@ -8882,7 +8954,7 @@
   {
     "Candidate Name": "Laura Richardson",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 35,
     "Incumbent": "No",
@@ -8894,7 +8966,7 @@
   {
     "Candidate Name": "Josh Newman",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 37,
     "Incumbent": "Yes",
@@ -8906,7 +8978,7 @@
   {
     "Candidate Name": "Steven \"Steve\" Choi",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 37,
     "Incumbent": "No",
@@ -8918,7 +8990,7 @@
   {
     "Candidate Name": "Akilah Weber",
     "Office": "State Senate",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 39,
     "Incumbent": "No",
@@ -8930,7 +9002,7 @@
   {
     "Candidate Name": "Bob Divine",
     "Office": "State Senate",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 39,
     "Incumbent": "No",
@@ -8942,7 +9014,7 @@
   {
     "Candidate Name": "Tenessa Audette",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 1,
     "Incumbent": "No",
@@ -8954,7 +9026,7 @@
   {
     "Candidate Name": "Heather Hadwick",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 1,
     "Incumbent": "No",
@@ -8966,7 +9038,7 @@
   {
     "Candidate Name": "Chris Rogers",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 2,
     "Incumbent": "No",
@@ -8978,7 +9050,7 @@
   {
     "Candidate Name": "Micheal Greer",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 2,
     "Incumbent": "No",
@@ -8990,7 +9062,7 @@
   {
     "Candidate Name": "Aaron Draper",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 3,
     "Incumbent": "No",
@@ -9002,7 +9074,7 @@
   {
     "Candidate Name": "Jamie \"James\" Gallagher",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 3,
     "Incumbent": "Yes",
@@ -9014,7 +9086,7 @@
   {
     "Candidate Name": "Cecilia M. Aguiar-Curry",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 4,
     "Incumbent": "Yes",
@@ -9026,7 +9098,7 @@
   {
     "Candidate Name": "Darren T. Ellis",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 4,
     "Incumbent": "No",
@@ -9038,7 +9110,7 @@
   {
     "Candidate Name": "Neva Parker",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 5,
     "Incumbent": "No",
@@ -9050,7 +9122,7 @@
   {
     "Candidate Name": "Joe Patterson",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 5,
     "Incumbent": "Yes",
@@ -9062,7 +9134,7 @@
   {
     "Candidate Name": "Maggy Krell",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 6,
     "Incumbent": "No",
@@ -9074,7 +9146,7 @@
   {
     "Candidate Name": "Nikki Ellis",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 6,
     "Incumbent": "No",
@@ -9086,7 +9158,7 @@
   {
     "Candidate Name": "Porsche Middleton",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 7,
     "Incumbent": "No",
@@ -9098,7 +9170,7 @@
   {
     "Candidate Name": "Josh Hoover",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 7,
     "Incumbent": "Yes",
@@ -9110,7 +9182,7 @@
   {
     "Candidate Name": "George Radanovich",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 8,
     "Incumbent": "No",
@@ -9122,7 +9194,7 @@
   {
     "Candidate Name": "David J. Tangipa",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 8,
     "Incumbent": "No",
@@ -9134,7 +9206,7 @@
   {
     "Candidate Name": "Heath Flora",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 9,
     "Incumbent": "Yes",
@@ -9146,7 +9218,7 @@
   {
     "Candidate Name": "Tami Nobriga",
     "Office": "State House",
-    "Party": "IND",
+    "Party": "I",
     "Website": "",
     "District": 9,
     "Incumbent": "No",
@@ -9158,7 +9230,7 @@
   {
     "Candidate Name": "Stephanie Nguyen",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 10,
     "Incumbent": "Yes",
@@ -9170,7 +9242,7 @@
   {
     "Candidate Name": "Vinaya Singh",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 10,
     "Incumbent": "No",
@@ -9182,7 +9254,7 @@
   {
     "Candidate Name": "Lori D Wilson",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 11,
     "Incumbent": "Yes",
@@ -9194,7 +9266,7 @@
   {
     "Candidate Name": "Dave Ennis",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 11,
     "Incumbent": "No",
@@ -9206,7 +9278,7 @@
   {
     "Candidate Name": "Damon Connolly",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 12,
     "Incumbent": "Yes",
@@ -9218,7 +9290,7 @@
   {
     "Candidate Name": "Andy Podshadley",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 12,
     "Incumbent": "No",
@@ -9230,7 +9302,7 @@
   {
     "Candidate Name": "Rhodesia Ransom",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 13,
     "Incumbent": "No",
@@ -9242,7 +9314,7 @@
   {
     "Candidate Name": "Denise Aguilar Mendez",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 13,
     "Incumbent": "No",
@@ -9254,7 +9326,7 @@
   {
     "Candidate Name": "Margot Smith",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 14,
     "Incumbent": "No",
@@ -9266,7 +9338,7 @@
   {
     "Candidate Name": "Buffy Wicks",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 14,
     "Incumbent": "Yes",
@@ -9278,7 +9350,7 @@
   {
     "Candidate Name": "Anamaria Avila Farias",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 15,
     "Incumbent": "No",
@@ -9290,7 +9362,7 @@
   {
     "Candidate Name": "Sonia Ledo",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 15,
     "Incumbent": "No",
@@ -9302,7 +9374,7 @@
   {
     "Candidate Name": "Rebecca Bauer-Kahan",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 16,
     "Incumbent": "Yes",
@@ -9314,7 +9386,7 @@
   {
     "Candidate Name": "Joseph A. Rubay",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 16,
     "Incumbent": "No",
@@ -9326,7 +9398,7 @@
   {
     "Candidate Name": "Matt Haney",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 17,
     "Incumbent": "Yes",
@@ -9338,7 +9410,7 @@
   {
     "Candidate Name": "Manuel Noris-Barrera",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 17,
     "Incumbent": "No",
@@ -9350,7 +9422,7 @@
   {
     "Candidate Name": "Mia Bonta",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 18,
     "Incumbent": "Yes",
@@ -9362,7 +9434,7 @@
   {
     "Candidate Name": "Andre Sandford",
     "Office": "State House",
-    "Party": "IND",
+    "Party": "I",
     "Website": "",
     "District": 18,
     "Incumbent": "No",
@@ -9374,7 +9446,7 @@
   {
     "Candidate Name": "David E. Lee",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 19,
     "Incumbent": "No",
@@ -9386,7 +9458,7 @@
   {
     "Candidate Name": "Catherine Stefani",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 19,
     "Incumbent": "No",
@@ -9398,7 +9470,7 @@
   {
     "Candidate Name": "Liz Ortega",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 20,
     "Incumbent": "Yes",
@@ -9410,7 +9482,7 @@
   {
     "Candidate Name": "Sangeetha Shanbhogue",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 20,
     "Incumbent": "No",
@@ -9422,7 +9494,7 @@
   {
     "Candidate Name": "Diane Papan",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 21,
     "Incumbent": "Yes",
@@ -9434,7 +9506,7 @@
   {
     "Candidate Name": "Mark Gilham",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 21,
     "Incumbent": "No",
@@ -9446,7 +9518,7 @@
   {
     "Candidate Name": "Jessica Self",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 22,
     "Incumbent": "No",
@@ -9458,7 +9530,7 @@
   {
     "Candidate Name": "Juan Alanis",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 22,
     "Incumbent": "Yes",
@@ -9470,7 +9542,7 @@
   {
     "Candidate Name": "Marc Berman",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 23,
     "Incumbent": "Yes",
@@ -9482,7 +9554,7 @@
   {
     "Candidate Name": "Lydia Kou",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 23,
     "Incumbent": "No",
@@ -9494,7 +9566,7 @@
   {
     "Candidate Name": "Alex Lee",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 24,
     "Incumbent": "Yes",
@@ -9506,7 +9578,7 @@
   {
     "Candidate Name": "Bob Brunton",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 24,
     "Incumbent": "No",
@@ -9518,7 +9590,7 @@
   {
     "Candidate Name": "Ash Kalra",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 25,
     "Incumbent": "Yes",
@@ -9530,7 +9602,7 @@
   {
     "Candidate Name": "Ted Stroll",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 25,
     "Incumbent": "No",
@@ -9542,7 +9614,7 @@
   {
     "Candidate Name": "Patrick Aherns",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 26,
     "Incumbent": "No",
@@ -9554,7 +9626,7 @@
   {
     "Candidate Name": "Tara Sreekrishnan",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 26,
     "Incumbent": "No",
@@ -9566,7 +9638,7 @@
   {
     "Candidate Name": "Esmeralda Soria",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 27,
     "Incumbent": "Yes",
@@ -9578,7 +9650,7 @@
   {
     "Candidate Name": "Joanna Garcia Rose",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 27,
     "Incumbent": "No",
@@ -9590,7 +9662,7 @@
   {
     "Candidate Name": "Gail Pellerin",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 28,
     "Incumbent": "Yes",
@@ -9602,7 +9674,7 @@
   {
     "Candidate Name": "Liz Lawler",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 28,
     "Incumbent": "No",
@@ -9614,7 +9686,7 @@
   {
     "Candidate Name": "Robert Rivas",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 29,
     "Incumbent": "Yes",
@@ -9626,7 +9698,7 @@
   {
     "Candidate Name": "J.W. Paine",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 29,
     "Incumbent": "No",
@@ -9638,7 +9710,7 @@
   {
     "Candidate Name": "Dawn Addis",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 30,
     "Incumbent": "Yes",
@@ -9650,7 +9722,7 @@
   {
     "Candidate Name": "Dalila Epperson",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 30,
     "Incumbent": "No",
@@ -9662,7 +9734,7 @@
   {
     "Candidate Name": "Joaquin Arambula",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 31,
     "Incumbent": "Yes",
@@ -9674,7 +9746,7 @@
   {
     "Candidate Name": "Solomon Verduzco",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 31,
     "Incumbent": "No",
@@ -9686,7 +9758,7 @@
   {
     "Candidate Name": "Vince Fong",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 32,
     "Incumbent": "No",
@@ -9698,7 +9770,7 @@
   {
     "Candidate Name": "Ken Weir",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 32,
     "Incumbent": "No",
@@ -9710,7 +9782,7 @@
   {
     "Candidate Name": "Xavier Avila",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 33,
     "Incumbent": "No",
@@ -9722,7 +9794,7 @@
   {
     "Candidate Name": "Alexandra Macedo",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 33,
     "Incumbent": "No",
@@ -9734,7 +9806,7 @@
   {
     "Candidate Name": "Ricardo Ortega",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 34,
     "Incumbent": "No",
@@ -9746,7 +9818,7 @@
   {
     "Candidate Name": "Tom Lackey",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 34,
     "Incumbent": "Yes",
@@ -9758,7 +9830,7 @@
   {
     "Candidate Name": "Jasmeet Bains",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 35,
     "Incumbent": "Yes",
@@ -9770,7 +9842,7 @@
   {
     "Candidate Name": "Robert Rosas",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 35,
     "Incumbent": "No",
@@ -9782,7 +9854,7 @@
   {
     "Candidate Name": "Jose \"Joey\" Acu\u00f1a Jr.",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 36,
     "Incumbent": "No",
@@ -9794,7 +9866,7 @@
   {
     "Candidate Name": "Jeff Gonzalez",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 36,
     "Incumbent": "No",
@@ -9806,7 +9878,7 @@
   {
     "Candidate Name": "Gregg Hart",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 37,
     "Incumbent": "Yes",
@@ -9818,7 +9890,7 @@
   {
     "Candidate Name": "Sari M. Domingues",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 37,
     "Incumbent": "No",
@@ -9830,7 +9902,7 @@
   {
     "Candidate Name": "Steve Bennett",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 38,
     "Incumbent": "Yes",
@@ -9842,7 +9914,7 @@
   {
     "Candidate Name": "Deborah \"Deb\" Baber",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 38,
     "Incumbent": "No",
@@ -9854,7 +9926,7 @@
   {
     "Candidate Name": "Juan Carillo Ventura",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 39,
     "Incumbent": "Yes",
@@ -9866,7 +9938,7 @@
   {
     "Candidate Name": "Paul Andre Marsh",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 39,
     "Incumbent": "No",
@@ -9878,7 +9950,7 @@
   {
     "Candidate Name": "Pilar Schiavo",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 40,
     "Incumbent": "Yes",
@@ -9890,7 +9962,7 @@
   {
     "Candidate Name": "Patrick Lee Gipson",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 40,
     "Incumbent": "No",
@@ -9902,7 +9974,7 @@
   {
     "Candidate Name": "John Harabedian",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 41,
     "Incumbent": "No",
@@ -9914,7 +9986,7 @@
   {
     "Candidate Name": "Michelle Del Rosaria Martinez",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 41,
     "Incumbent": "No",
@@ -9926,7 +9998,7 @@
   {
     "Candidate Name": "Jacqui Irwin",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 42,
     "Incumbent": "Yes",
@@ -9938,7 +10010,7 @@
   {
     "Candidate Name": "Ted Nordblum",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 42,
     "Incumbent": "No",
@@ -9950,7 +10022,7 @@
   {
     "Candidate Name": "Celeste Rodriguez",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 43,
     "Incumbent": "No",
@@ -9962,7 +10034,7 @@
   {
     "Candidate Name": "Victoria Garcia",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 43,
     "Incumbent": "No",
@@ -9974,7 +10046,7 @@
   {
     "Candidate Name": "Nick Schultz",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 44,
     "Incumbent": "No",
@@ -9986,7 +10058,7 @@
   {
     "Candidate Name": "Tony Rodriguez",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 44,
     "Incumbent": "No",
@@ -9998,7 +10070,7 @@
   {
     "Candidate Name": "James C. Ramos",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 45,
     "Incumbent": "Yes",
@@ -10010,7 +10082,7 @@
   {
     "Candidate Name": "Scott P. Olson",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 45,
     "Incumbent": "No",
@@ -10022,7 +10094,7 @@
   {
     "Candidate Name": "Jesse Gabriel",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 46,
     "Incumbent": "Yes",
@@ -10034,7 +10106,7 @@
   {
     "Candidate Name": "Tracey Schroeder",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 46,
     "Incumbent": "No",
@@ -10046,7 +10118,7 @@
   {
     "Candidate Name": "Christy Holstege",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 47,
     "Incumbent": "No",
@@ -10058,7 +10130,7 @@
   {
     "Candidate Name": "Greg Wallis",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 47,
     "Incumbent": "Yes",
@@ -10070,7 +10142,7 @@
   {
     "Candidate Name": "Bianca Rubio",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 48,
     "Incumbent": "Yes",
@@ -10082,7 +10154,7 @@
   {
     "Candidate Name": "Dan T. Tran",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 48,
     "Incumbent": "No",
@@ -10094,7 +10166,7 @@
   {
     "Candidate Name": "Mike Fong",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 49,
     "Incumbent": "Yes",
@@ -10106,7 +10178,7 @@
   {
     "Candidate Name": "Long \"David\" Liu",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 49,
     "Incumbent": "No",
@@ -10118,7 +10190,7 @@
   {
     "Candidate Name": "Robert Garcia",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 50,
     "Incumbent": "No",
@@ -10130,7 +10202,7 @@
   {
     "Candidate Name": "Adam Perez",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 50,
     "Incumbent": "No",
@@ -10142,7 +10214,7 @@
   {
     "Candidate Name": "Rick Chavez Zbur",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 51,
     "Incumbent": "Yes",
@@ -10154,7 +10226,7 @@
   {
     "Candidate Name": "Stephan Hohil",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 51,
     "Incumbent": "No",
@@ -10166,7 +10238,7 @@
   {
     "Candidate Name": "Jessica Caloza",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 52,
     "Incumbent": "No",
@@ -10178,7 +10250,7 @@
   {
     "Candidate Name": "Franky Carrillo",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 52,
     "Incumbent": "No",
@@ -10190,7 +10262,7 @@
   {
     "Candidate Name": "Michelle Rodriguez",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 53,
     "Incumbent": "No",
@@ -10202,7 +10274,7 @@
   {
     "Candidate Name": "Nick Wilson",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 53,
     "Incumbent": "No",
@@ -10214,7 +10286,7 @@
   {
     "Candidate Name": "Mark Gonzalez",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 54,
     "Incumbent": "No",
@@ -10226,7 +10298,7 @@
   {
     "Candidate Name": "John K. Yi",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 54,
     "Incumbent": "No",
@@ -10238,7 +10310,7 @@
   {
     "Candidate Name": "Isaac G. Bryan",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 55,
     "Incumbent": "Yes",
@@ -10250,7 +10322,7 @@
   {
     "Candidate Name": "Keith G. Cascio",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 55,
     "Incumbent": "No",
@@ -10262,7 +10334,7 @@
   {
     "Candidate Name": "Lisa Calderon",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 56,
     "Incumbent": "Yes",
@@ -10274,7 +10346,7 @@
   {
     "Candidate Name": "Jessica Martinez",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 56,
     "Incumbent": "No",
@@ -10286,7 +10358,7 @@
   {
     "Candidate Name": "Sade Elhawary",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 57,
     "Incumbent": "No",
@@ -10298,7 +10370,7 @@
   {
     "Candidate Name": "Efren Martinez",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 57,
     "Incumbent": "No",
@@ -10310,7 +10382,7 @@
   {
     "Candidate Name": "Clarissa Cervantes",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 58,
     "Incumbent": "No",
@@ -10322,7 +10394,7 @@
   {
     "Candidate Name": "Leticia Castillo",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 58,
     "Incumbent": "No",
@@ -10334,7 +10406,7 @@
   {
     "Candidate Name": "Dave Obrand",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 59,
     "Incumbent": "No",
@@ -10346,7 +10418,7 @@
   {
     "Candidate Name": "Phillip Chen",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 59,
     "Incumbent": "Yes",
@@ -10358,7 +10430,7 @@
   {
     "Candidate Name": "Corey A Jackson",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 60,
     "Incumbent": "Yes",
@@ -10370,7 +10442,7 @@
   {
     "Candidate Name": "Ron Edwards",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 60,
     "Incumbent": "No",
@@ -10382,7 +10454,7 @@
   {
     "Candidate Name": "Tina Simone McKinnor",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 61,
     "Incumbent": "Yes",
@@ -10394,7 +10466,7 @@
   {
     "Candidate Name": "Alfonso Hernandez",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 61,
     "Incumbent": "No",
@@ -10406,7 +10478,7 @@
   {
     "Candidate Name": "Jose Luis Solache",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 62,
     "Incumbent": "No",
@@ -10418,7 +10490,7 @@
   {
     "Candidate Name": "Paul Jones",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 62,
     "Incumbent": "No",
@@ -10430,7 +10502,7 @@
   {
     "Candidate Name": "Chris Shoults ",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 63,
     "Incumbent": "No",
@@ -10442,7 +10514,7 @@
   {
     "Candidate Name": "Bill Essayli",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 63,
     "Incumbent": "Yes",
@@ -10454,7 +10526,7 @@
   {
     "Candidate Name": "Blanca Pacheco",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 64,
     "Incumbent": "Yes",
@@ -10466,7 +10538,7 @@
   {
     "Candidate Name": "Raul Ortiz Jr. ",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 64,
     "Incumbent": "No",
@@ -10478,7 +10550,7 @@
   {
     "Candidate Name": "Mike Gipson",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 65,
     "Incumbent": "Yes",
@@ -10490,7 +10562,7 @@
   {
     "Candidate Name": "Lydia A Gutierrez",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 65,
     "Incumbent": "No",
@@ -10502,7 +10574,7 @@
   {
     "Candidate Name": "Al Muratsuchi",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 66,
     "Incumbent": "Yes",
@@ -10514,7 +10586,7 @@
   {
     "Candidate Name": "George Barks",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 66,
     "Incumbent": "No",
@@ -10526,7 +10598,7 @@
   {
     "Candidate Name": "Sharon Quirk-Silva",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 67,
     "Incumbent": "Yes",
@@ -10538,7 +10610,7 @@
   {
     "Candidate Name": "Elizabeth \"Beth\" Culver",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 67,
     "Incumbent": "No",
@@ -10550,7 +10622,7 @@
   {
     "Candidate Name": "Avelino Valencia",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 68,
     "Incumbent": "Yes",
@@ -10562,7 +10634,7 @@
   {
     "Candidate Name": "Mike Tardif",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 68,
     "Incumbent": "No",
@@ -10574,7 +10646,7 @@
   {
     "Candidate Name": "Josh Lowenthal ",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 69,
     "Incumbent": "Yes",
@@ -10586,7 +10658,7 @@
   {
     "Candidate Name": "Joshua Rodriguez",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 69,
     "Incumbent": "No",
@@ -10598,7 +10670,7 @@
   {
     "Candidate Name": "Jimmy D. Pham",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 70,
     "Incumbent": "No",
@@ -10610,7 +10682,7 @@
   {
     "Candidate Name": "Tri Ta",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 70,
     "Incumbent": "Yes",
@@ -10622,7 +10694,7 @@
   {
     "Candidate Name": "Gary Kephart",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 71,
     "Incumbent": "No",
@@ -10634,7 +10706,7 @@
   {
     "Candidate Name": "Kate Sanchez",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 71,
     "Incumbent": "Yes",
@@ -10646,7 +10718,7 @@
   {
     "Candidate Name": "Dom Jones",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 72,
     "Incumbent": "No",
@@ -10658,7 +10730,7 @@
   {
     "Candidate Name": "Diane Dixon",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 72,
     "Incumbent": "Yes",
@@ -10670,7 +10742,7 @@
   {
     "Candidate Name": "Cottie Petrie-Norris",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 73,
     "Incumbent": "Yes",
@@ -10682,7 +10754,7 @@
   {
     "Candidate Name": "Scotty Peotter",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 73,
     "Incumbent": "No",
@@ -10694,7 +10766,7 @@
   {
     "Candidate Name": "Chris Duncan",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 74,
     "Incumbent": "No",
@@ -10706,7 +10778,7 @@
   {
     "Candidate Name": "Laurie Davis",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 74,
     "Incumbent": "Yes",
@@ -10718,7 +10790,7 @@
   {
     "Candidate Name": "Carl DeMaio",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 75,
     "Incumbent": "No",
@@ -10730,7 +10802,7 @@
   {
     "Candidate Name": "Andrew Hayes",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 75,
     "Incumbent": "No",
@@ -10742,7 +10814,7 @@
   {
     "Candidate Name": "Darshana Patel",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 76,
     "Incumbent": "No",
@@ -10754,7 +10826,7 @@
   {
     "Candidate Name": "Kristie Bruce-Lane",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 76,
     "Incumbent": "No",
@@ -10766,7 +10838,7 @@
   {
     "Candidate Name": "Tasha Boerner",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 77,
     "Incumbent": "Yes",
@@ -10778,7 +10850,7 @@
   {
     "Candidate Name": "James Browne",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 77,
     "Incumbent": "No",
@@ -10790,7 +10862,7 @@
   {
     "Candidate Name": "Chris Ward",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 78,
     "Incumbent": "Yes",
@@ -10802,7 +10874,7 @@
   {
     "Candidate Name": "Colin Parent",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 79,
     "Incumbent": "No",
@@ -10814,7 +10886,7 @@
   {
     "Candidate Name": "LaShae Sharp-Collins",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 79,
     "Incumbent": "No",
@@ -10826,7 +10898,7 @@
   {
     "Candidate Name": "David A. Alvarez",
     "Office": "State House",
-    "Party": "DEM",
+    "Party": "D",
     "Website": "",
     "District": 80,
     "Incumbent": "Yes",
@@ -10838,7 +10910,7 @@
   {
     "Candidate Name": "Michael W. Williams",
     "Office": "State House",
-    "Party": "GOP",
+    "Party": "R",
     "Website": "",
     "District": 80,
     "Incumbent": "No",

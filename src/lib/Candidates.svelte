@@ -29,9 +29,9 @@
     // Different markets list parties differently, so these are the colors for the major parties in each market
     const marketParties = {
         IL: {
-            DEM: ["#2380cf"],
-            GOP: ["#cf232a"],
-            IND: ["#cfab23"],
+            D: ["#2380cf"],
+            R: ["#cf232a"],
+            I: ["#cfab23"],
         },
         FL: {
             DEM: ["#2380cf"],
@@ -41,11 +41,11 @@
             IND: ["#cfab23"],
         },
         CA: {
-            DEM: ["#2380cf"],
-            GOP: ["#cf232a"],
-            IND: ["#cfab23"],
-            GRE: ["#308e18"],
-            LIB: ["#76188e"],
+            D: ["#2380cf"],
+            R: ["#cf232a"],
+            I: ["#cfab23"],
+            G: ["#308e18"],
+            L: ["#76188e"],
         },
     };
 
@@ -136,7 +136,7 @@
                         {/if}
                         <td>
                             <div
-                                class="party-block"
+                                class={market === "FL" ? "party-block fl" : "party-block"}
                                 style={`background-color: ${partyColor(candidate["Party"])}`}
                             >
                                 {candidate["Party"]}
@@ -178,13 +178,19 @@
         font-size: 20px;
     }
 
+    .party-block.fl {
+        border-radius: 3px;
+        max-width: 40px;
+    }
+
     .party-block {
         border-radius: 3px;
         color: #ffffff;
         padding: 2px;
         text-align: center;
-        max-width: 40px;
-        /*font-family: "ArtHouseBold", sans-serif;*/
+        align-items: center;
+        width: 15px;
+        height: 20px;
     }
 
     .note {

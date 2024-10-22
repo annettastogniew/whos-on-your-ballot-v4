@@ -1,25 +1,26 @@
 <script>
-    import { addressCandidateData, currentRace } from "./stores";
+    import { currentRace } from "./stores";
 
     export let esp;
     export let races;
 
+    /** This component allows users to switch between races by clicking on different tab buttons.
+     * When a button is clicked, the current race global variable is set to that race.
+     */
+
+    // Spanish tab labels
     let spanishRaces = {
         "President": "Presidente",
         "U.S. House": "Cámara de Representantes de EEUU",
         "U.S. Senate": "Senado de EEUU",
         "State Senate": "Senado Estatal",
         "State House": "Cámara de Representantes Estatal",
-        "Ballot Measures": "Medidas en la boleta"
+        "Ballot Measures": "Medidas en la boleta",
     };
-
-    /** This component allows users to switch between races by clicking on different tab buttons.
-     * When a button is clicked, the current race global variable is set to that race.
-    */
 
     // Need to know the current active race
     let activeRace;
-    currentRace.subscribe(value => {
+    currentRace.subscribe((value) => {
         activeRace = value;
     });
 
@@ -35,7 +36,8 @@
         {#each races as race}
             <button
                 class={race === activeRace ? "active" : ""}
-                on:click={() => handleClick(race)}>{esp ? spanishRaces[race] : race}</button
+                on:click={() => handleClick(race)}
+                >{esp ? spanishRaces[race] : race}</button
             >
         {/each}
     </div>
@@ -61,9 +63,7 @@
         margin-bottom: 35px;
     }
 
-    @media screen and (max-width: 700px) {
-        button {
-            margin-bottom: 10px;
-        }
+    button {
+        margin-bottom: 10px;
     }
 </style>

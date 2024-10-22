@@ -30,9 +30,9 @@
     let races = [];
     addressCandidateData.subscribe((value) => {
         value.map(
-            (candidate) =>
+            candidate =>
                 !races.includes(candidate["Office"]) &&
-                races.push(candidate["Office"]),
+                races.push(candidate["Office"])
         );
     });
 </script>
