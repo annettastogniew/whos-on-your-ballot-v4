@@ -84,7 +84,7 @@
           const address = result["formatted_address"];
 
           let raceDistricts = {
-            "President": fipsCode,
+            President: fipsCode,
             "U.S. Senate": fipsCode,
             "U.S. House": houseDist,
             "State Senate": stateSenDist,
@@ -128,19 +128,25 @@
           // Show search results component
           d3.select("#search-results").style("display", "inline-block");
 
-          resultsMessage = esp ? `Mostrando resultados para ${address}.` : `Showing results for ${address}.`;
+          resultsMessage = esp
+            ? `Mostrando resultados para ${address}.`
+            : `Showing results for ${address}.`;
         }
         // If the entered address is not in a state affiliated with this market, display an error message
         else {
           searchPassed = false;
-          resultsMessage = `Please enter a valid ${stateNames} address. You may need to type your full address to see results.`;
+          resultsMessage = esp
+            ? `Por favor, ingresa una dirección válida de ${stateNames}. Es posible que debas escribir tu dirección completa para ver los resultados`
+            : `Please enter a valid ${stateNames} address. You may need to type your full address to see results.`;
         }
       })
       .catch((e) => {
         // If the API returned an error, display an error message
         loading = false;
         searchPassed = false;
-        resultsMessage = `Please enter a valid ${stateNames} address. You may need to type your full address to see results.`;
+        resultsMessage = esp
+          ? `Por favor, ingresa una dirección válida de ${stateNames}. Es posible que debas escribir tu dirección completa para ver los resultados`
+          : `Please enter a valid ${stateNames} address. You may need to type your full address to see results.`;
       });
   };
 </script>

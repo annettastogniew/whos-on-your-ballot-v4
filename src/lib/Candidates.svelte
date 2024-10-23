@@ -20,7 +20,7 @@
             ? `Ve la clave de abreviaturas de los partidos en inglés <a target="_blank" href="https://dos.fl.gov/elections/candidates-committees/political-parties/">aquí</a>. WRI significa “por escrito”.`
             : `See party abbreviations key <a target="_blank" href="https://dos.fl.gov/elections/candidates-committees/political-parties/">here</a>. WRI denotes "write-in."`,
         caNoteText = esp
-            ? ``
+            ? `Los candidatos se están postulando tanto para el mandato parcial/no vencido que finaliza el 3 de enero de 2025, como para el mandato completo que le sigue`
             : `Candidates are running for both the partial/unexpired term ending on Jan. 3, 2025 and the full term that follows.`,
         colOneHed = esp ? "Candidato" : "Candidate",
         colTwoHed = esp ? "Partido" : "Party",
