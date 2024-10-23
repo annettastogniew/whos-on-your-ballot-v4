@@ -77,7 +77,7 @@
         (c) => c["properties"]["DISTRICT"].toString() == county.toString(),
     )[0];
     const thisCountyName = thisCounty["properties"]["NAME"];
-    countyName = esp ? `${thisCountyName} Condado` : `${thisCountyName} County`;
+    countyName = esp ? `Condado ${thisCountyName}` : `${thisCountyName} County`;
 
     // Get region (district or county) name to display above candidate list
     currentRace.subscribe((value) => {
