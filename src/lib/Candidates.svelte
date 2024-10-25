@@ -1,5 +1,5 @@
 <script>
-    import { addressCandidateData, currentRace, districts } from "./stores";
+    import { addressCandidateData, currentRace, districts, state } from "./stores";
     import data from "../data/counties.json";
 
     export let market;
@@ -16,12 +16,17 @@
         regionName,
         countyName,
         county,
+        currentState,
         flNoteText = esp
             ? `Ve la clave de abreviaturas de los partidos en inglés <a target="_blank" href="https://dos.fl.gov/elections/candidates-committees/political-parties/">aquí</a>. WRI significa “por escrito”.`
             : `See party abbreviations key <a target="_blank" href="https://dos.fl.gov/elections/candidates-committees/political-parties/">here</a>. WRI denotes "write-in."`,
         caNoteText = esp
             ? `Los candidatos se están postulando tanto para el mandato parcial/no vencido que finaliza el 3 de enero de 2025, como para el mandato completo que le sigue`
             : `Candidates are running for both the partial/unexpired term ending on Jan. 3, 2025 and the full term that follows.`,
+        maNoteText = esp
+            ? `Según las reglas de la legislatura de Massachusetts, la compañera de fórmula de Jill Stein aparece como Gloria Caballero-Roca. Su compañero de fórmula real es Rudolph Ware. Lee más <a href="https://www.green-rainbow.org/#:~:text=NOTE%3A%20When%20you,the%20corporate%20duopoly!">aquí</a>.`
+            : `Per Massachusetts Legislature rules, Jill Stein's running mate is listed as Gloria Caballero-Roca. Her actual running mate is Rudolph Ware. Read more <a href="https://www.green-rainbow.org/#:~:text=NOTE%3A%20When%20you,the%20corporate%20duopoly!">here</a>.`,
+        noteText,
         colOneHed = esp ? "Candidato" : "Candidate",
         colTwoHed = esp ? "Partido" : "Party",
         candidateData = [];
@@ -47,6 +52,13 @@
             G: ["#308e18"],
             L: ["#76188e"],
         },
+        MA: {
+            D: ["#2380cf"],
+            R: ["#cf232a"],
+            I: ["#cfab23"],
+            G: ["#308e18"],
+            L: ["#76188e"],
+        }
     };
 
     // Get background color for given party
@@ -69,6 +81,11 @@
     districts.subscribe((value) => {
         allDistricts = value;
         county = value["President"];
+    });
+
+    // Pull state from global variable
+    state.subscribe(value => {
+        currentState = value;
     });
 
     // Get county name from county data, since search results only yield FIPS code
@@ -108,6 +125,16 @@
     $: raceData = candidateData
         .filter((candidate) => candidate["Office"] === activeRace)
         .sort((a, b) => sortCandidates(a, b));
+
+    // Add note if needed (only needed for certain markets/ races)
+    $: noteText =
+        market === "FL"
+            ? flNoteText
+            : market === "CA" && activeRace === "U.S. Senate"
+              ? caNoteText
+              : currentState === "MA" && activeRace === "President"
+                ? maNoteText
+                : "";
 </script>
 
 <main>
@@ -136,7 +163,9 @@
                         {/if}
                         <td>
                             <div
-                                class={market === "FL" ? "party-block fl" : "party-block"}
+                                class={market === "FL"
+                                    ? "party-block fl"
+                                    : "party-block"}
                                 style={`background-color: ${partyColor(candidate["Party"])}`}
                             >
                                 {candidate["Party"]}
@@ -147,12 +176,7 @@
             </tbody>
         </table>
     </div>
-    {#if market === "FL"}
-        <p class="note">{@html flNoteText}</p>
-    {/if}
-    {#if market === "CA" && activeRace === "U.S. Senate"}
-        <p class="note">{caNoteText}</p>
-    {/if}
+    <p class="note">{@html noteText}</p>
 </main>
 
 <style>
@@ -189,7 +213,7 @@
         padding: 2px;
         text-align: center;
         align-items: center;
-        width: 15px;
+        max-width: 30px;
         height: 20px;
     }
 

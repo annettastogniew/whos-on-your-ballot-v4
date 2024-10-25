@@ -20,3 +20,6 @@ export const allCandidateData = writable([]);
 
 // Global variable for searched address' candidate data
 export const addressCandidateData = writable([]);
+
+// Global variable for state of search address
+export const state = writable("");

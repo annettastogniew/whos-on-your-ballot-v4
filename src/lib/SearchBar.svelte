@@ -6,6 +6,7 @@
     addressCandidateData,
     coords,
     districts,
+    state
   } from "../lib/stores";
   import Spinner from "./Spinner.svelte";
   import { fade } from "svelte/transition";
@@ -61,11 +62,11 @@
         // If the API call worked, stop loading spinner
         loading = false;
         const result = response["data"]["results"][0];
+        const searchState = result["address_components"]["state"];
+        state.set(searchState);
         // If the entered address is in a state affiliated with this market, load data
         if (
-          Object.keys(marketStates).includes(
-            result["address_components"]["state"],
-          )
+          Object.keys(marketStates).includes(searchState)
         ) {
           searchPassed = true;
           // Pull address information from API results
@@ -84,7 +85,7 @@
           const address = result["formatted_address"];
 
           let raceDistricts = {
-            President: fipsCode,
+            "President": fipsCode,
             "U.S. Senate": fipsCode,
             "U.S. House": houseDist,
             "State Senate": stateSenDist,
@@ -98,16 +99,20 @@
           // Senate and Presidential candidates are the same statewide, so we only need to filter
           // state house/senate and US house candidates by district
           const filterCandidates = (candidate) => {
-            if (
-              candidate["Office"] != "President" &&
-              candidate["Office"] != "U.S. Senate" &&
-              candidate["Office"] != "Ballot Measures"
-            ) {
-              return (
-                raceDistricts[candidate["Office"]] == candidate["District"]
-              );
+            if (candidate["State"] == searchState) {
+              if (
+                candidate["Office"] != "President" &&
+                candidate["Office"] != "U.S. Senate" &&
+                candidate["Office"] != "Ballot Measures"
+              ) {
+                return (
+                  raceDistricts[candidate["Office"]] == candidate["District"]
+                );
+              } else {
+                return true;
+              }
             } else {
-              return true;
+              return false;
             }
           };
 

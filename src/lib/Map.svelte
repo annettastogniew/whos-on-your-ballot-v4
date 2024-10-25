@@ -1,5 +1,5 @@
 <script>
-    import { currentRace, coords, districts, mobile } from "./stores";
+    import { currentRace, coords, districts, mobile, state } from "./stores";
     import * as d3 from "d3";
     import { draw } from "svelte/transition";
     import stateData from "../data/states.json";
@@ -12,7 +12,7 @@
      */
 
     let racesCopy = [...races],
-        mapType,
+        currentState,
         points,
         coordinates,
         projection,
@@ -27,13 +27,19 @@
         marketStates;
 
     // FIPS codes for each market's states, so we can pull just those states from the geojson files
-    const marketFips = {
-        MA: ["25", "33"],
+    const stateFips = {
+        MA: ["25"],
+        NH: ["33"],
         CA: ["06"],
         IL: ["17"],
         FL: ["12"],
         DC: ["11", "24", "51"],
     };
+
+    // Pull state from global variable
+    state.subscribe(value => {
+        currentState = value;
+    });
 
     // file names for each race type
     const raceFiles = {
@@ -55,7 +61,7 @@
 
     // Filter stateData for market states
     marketStates = stateData["features"].filter((state) =>
-        marketFips[market].includes(state["properties"]["STATEFP"]),
+        stateFips[currentState].includes(state["properties"]["STATEFP"]),
     );
 
     // No map for ballot measures, need to remove if in races
@@ -68,7 +74,7 @@
         d3.json(`src/data/${raceFiles[racesCopy[i]]}.json`).then((data) => {
             let thisRaceData = data.features;
             raceData[racesCopy[i]] = thisRaceData.filter((region) =>
-                marketFips[market].includes(
+                stateFips[currentState].includes(
                     region["properties"]["STATEFP"].toString(),
                 ),
             );
@@ -88,6 +94,8 @@
                 IL: { scale: 1500, translate: [30, 110] },
                 FL: { scale: 1300, translate: [-70, -150] },
                 CA: { scale: 750, translate: [400, 90] },
+                MA: { scale: 4500, translate: [-1250, 520] },
+                NH: { scale: 3000, translate: [-735, 475] },
             };
             circleDims = [3, 2, 1.5];
             strokeWidth = 0.35;
@@ -97,6 +105,8 @@
                 IL: { scale: 3800, translate: [-150, 275] },
                 FL: { scale: 2500, translate: [-235, -250] },
                 CA: { scale: 1800, translate: [800, 210] },
+                MA: { scale: 8000, translate: [-2300, 1000] },
+                NH: { scale: 6500, translate: [-1800, 1010] },
             };
             circleDims = [6, 4, 3];
             strokeWidth = 0.75;
@@ -105,8 +115,8 @@
         // Map projection for d3
         projection = d3
             .geoAlbersUsa()
-            .scale(mapParams[market]["scale"])
-            .translate(mapParams[market]["translate"]);
+            .scale(mapParams[currentState]["scale"])
+            .translate(mapParams[currentState]["translate"]);
         path = d3.geoPath(projection);
         points = coordinates.map((p) => projection([p["lng"], p["lat"]]));
     });
