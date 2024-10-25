@@ -150,16 +150,30 @@
             <tbody>
                 {#each raceData as candidate}
                     <tr>
-                        {#if candidate["Website"]}
-                            <td
-                                ><a
-                                    target="”_blank”"
-                                    href={candidate["Website"]}
-                                    >{candidate["Candidate Name"]}</a
-                                ></td
-                            >
+                        {#if candidate["Incumbent"] === "Yes"}
+                            {#if candidate["Website"]}
+                                <td
+                                    ><a
+                                        target="”_blank”"
+                                        href={candidate["Website"]}
+                                        >{candidate["Candidate Name"]}</a
+                                    >*</td
+                                >
+                            {:else}
+                                <td>{candidate["Candidate Name"]}*</td>
+                            {/if}
                         {:else}
-                            <td>{candidate["Candidate Name"]}</td>
+                            {#if candidate["Website"]}
+                                <td
+                                    ><a
+                                        target="”_blank”"
+                                        href={candidate["Website"]}
+                                        >{candidate["Candidate Name"]}</a
+                                    ></td
+                                >
+                            {:else}
+                                <td>{candidate["Candidate Name"]}</td>
+                            {/if}
                         {/if}
                         <td>
                             <div
@@ -176,6 +190,7 @@
             </tbody>
         </table>
     </div>
+    <p class="note">{esp ? "*Incumbido": "*Incumbent"}</p>
     <p class="note">{@html noteText}</p>
 </main>
 
