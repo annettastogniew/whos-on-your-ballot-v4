@@ -53,7 +53,7 @@
                     <BallotMeasures {esp} />
                 {:else}
                     <Candidates {market} {esp} />
-                    <Map {market} {races} />
+                    <Map {races} />
                 {/if}
             </div>
         {/if}

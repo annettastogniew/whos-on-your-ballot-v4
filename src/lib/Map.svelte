@@ -4,7 +4,6 @@
     import { draw } from "svelte/transition";
     import stateData from "../data/states.json";
 
-    export let market;
     export let races;
 
     /** This component displays a state map, with the district for the specified address highlighted
