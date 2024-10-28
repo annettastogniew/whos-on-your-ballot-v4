@@ -124,6 +124,7 @@
         }
     });
 
+    // Sort candidates by whether they are incumbent or belong to a major party
     const sortCandidates = (a, b) => {
         const partyA = a["Party"].trim();
         const partyB = b["Party"].trim();
