@@ -71,10 +71,21 @@
           searchPassed = true;
           // Pull address information from API results
           const districtResults = result["fields"];
-          const stateHouseDist =
+          let stateHouseDist;
+          if (searchState === "NH") {
+            let dist =
+            districtResults["state_legislative_districts"]["house"][0][
+              "name"
+            ];
+            let splitDist = dist.split(/(\d+)/);
+            splitDist = [splitDist[0], splitDist[1]].join("").toUpperCase();
+            stateHouseDist = splitDist;
+          } else {
+            stateHouseDist =
             districtResults["state_legislative_districts"]["house"][0][
               "district_number"
             ];
+          }
           const stateSenDist =
             districtResults["state_legislative_districts"]["senate"][0][
               "district_number"
@@ -105,9 +116,7 @@
                 candidate["Office"] != "U.S. Senate" &&
                 candidate["Office"] != "Ballot Measures"
               ) {
-                return (
-                  raceDistricts[candidate["Office"]] == candidate["District"]
-                );
+                return raceDistricts[candidate["Office"]] == candidate["District"];
               } else {
                 return true;
               }

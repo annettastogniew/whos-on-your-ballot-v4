@@ -14,6 +14,7 @@
         currentState,
         points,
         coordinates,
+        activeRace,
         projection,
         path,
         circleDims,
@@ -132,10 +133,28 @@
         regions = [];
         // load new regions (delay so animation will play)
         setTimeout(() => regions = raceData[value], 300);
+        activeRace = value;
     });
 
     // Set default race to President (need to delay to ensure d3 data has loaded)
     setTimeout(() => regions = raceData["President"], 500);
+
+    // Color district based on whether or not it is the selected district
+    const districtColor = region => {
+        let regionColor;
+        if (currentState === "NH" && activeRace === "State House") {
+            let distSplit = region["properties"]["NAMELSAD"].toUpperCase().split(/(\d+)/);
+            let distName = distSplit[0].split("STATE HOUSE DISTRICT ")[1];
+            let distNum = parseInt(distSplit[1]);
+            let finalDist = [distName, distNum].join("");
+            regionColor = finalDist !== currentDistrict.toString() ? "none" : "#838383";
+
+        } else {
+            let regionDistrict = region["properties"]["DISTRICT"].toString();
+            regionColor = regionDistrict !== currentDistrict.toString() ? "none" : "#838383";
+        }
+        return regionColor;
+    };
 </script>
 
 <main>
@@ -147,10 +166,7 @@
             {#each regions as feature, i}
                 <path
                     in:draw={{ delay: i * 10, duration: 500 }}
-                    fill={feature["properties"]["DISTRICT"].toString() !==
-                    currentDistrict.toString()
-                        ? "none"
-                        : "#838383"}
+                    fill={districtColor(feature)}
                     d={path(feature)}
                     class="region"
                     stroke-width={strokeWidth}

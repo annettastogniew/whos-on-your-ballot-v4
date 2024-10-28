@@ -1,5 +1,10 @@
 <script>
-    import { addressCandidateData, currentRace, districts, state } from "./stores";
+    import {
+        addressCandidateData,
+        currentRace,
+        districts,
+        state,
+    } from "./stores";
     import data from "../data/counties.json";
 
     export let market;
@@ -15,6 +20,7 @@
         allDistricts,
         regionName,
         countyName,
+        incumbents,
         county,
         currentState,
         flNoteText = esp
@@ -58,7 +64,7 @@
             I: ["#cfab23"],
             G: ["#308e18"],
             L: ["#76188e"],
-        }
+        },
     };
 
     // Get background color for given party
@@ -84,7 +90,7 @@
     });
 
     // Pull state from global variable
-    state.subscribe(value => {
+    state.subscribe((value) => {
         currentState = value;
     });
 
@@ -102,9 +108,19 @@
         if (value === "President" || value === "U.S. Senate") {
             regionName = countyName;
         } else {
+            let districtName =
+                currentState === "NH" && value === "State House"
+                    ? allDistricts[value]
+                          .toLowerCase()
+                          .split(" ")
+                          .map(
+                              (s) => s.charAt(0).toUpperCase() + s.substring(1),
+                          )
+                          .join(" ")
+                    : allDistricts[value];
             regionName = esp
-                ? `Distrito ${allDistricts[value]}`
-                : `District ${allDistricts[value]}`;
+                ? `Distrito ${districtName}`
+                : `District ${districtName}`;
         }
     });
 
@@ -112,7 +128,10 @@
         const partyA = a["Party"].trim();
         const partyB = b["Party"].trim();
         const parties = Object.keys(marketParties[market]);
-        if (parties.includes(partyA) && !parties.includes(partyB)) {
+        if (
+            a["Incumbent"] === "Yes" ||
+            (parties.includes(partyA) && !parties.includes(partyB))
+        ) {
             return -1;
         } else if (parties.includes(partyB) && !parties.includes(partyA)) {
             return 1;
@@ -135,6 +154,11 @@
               : currentState === "MA" && activeRace === "President"
                 ? maNoteText
                 : "";
+
+    // Determine whether any candidates are incumbent
+    $: incumbents = raceData.some(
+        (candidate) => candidate["Incumbent"] === "Yes",
+    );
 </script>
 
 <main>
@@ -162,18 +186,16 @@
                             {:else}
                                 <td>{candidate["Candidate Name"]}*</td>
                             {/if}
+                        {:else if candidate["Website"]}
+                            <td
+                                ><a
+                                    target="”_blank”"
+                                    href={candidate["Website"]}
+                                    >{candidate["Candidate Name"]}</a
+                                ></td
+                            >
                         {:else}
-                            {#if candidate["Website"]}
-                                <td
-                                    ><a
-                                        target="”_blank”"
-                                        href={candidate["Website"]}
-                                        >{candidate["Candidate Name"]}</a
-                                    ></td
-                                >
-                            {:else}
-                                <td>{candidate["Candidate Name"]}</td>
-                            {/if}
+                            <td>{candidate["Candidate Name"]}</td>
                         {/if}
                         <td>
                             <div
@@ -190,7 +212,9 @@
             </tbody>
         </table>
     </div>
-    <p class="note">{esp ? "*Incumbido": "*Incumbent"}</p>
+    {#if incumbents}
+        <p class="note">{esp ? "*Incumbido" : "*Incumbent"}</p>
+    {/if}
     <p class="note">{@html noteText}</p>
 </main>
 
