@@ -5,8 +5,19 @@
   <meta charset="UTF-8" />
   <link rel="icon" type="image/svg+xml" href="/whos-on-your-ballot-v4/ballot.png" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <script src="https://media.nbcnewyork.com/assets/editorial/national/common/js/pym.v1.min.js"></script>
   <title>Who's On Your Ballot?</title>
+  <script src="https://data.nbcstations.com/js/crosstalk.js"></script>
+  <script type="text/javascript">
+    document.addEventListener("DOMContentLoaded", function () {
+      xtalk.responsive = false;
+      function resizeme() {
+        xtalk.signalIframe()
+        xtalk.init()
+      }
+
+      const t = setInterval(resizeme,1000);
+    });
+  </script>
   <script type="module" crossorigin src="/whos-on-your-ballot-v4/assets/index-CZ-p5z6A.js"></script>
   <link rel="stylesheet" crossorigin href="/whos-on-your-ballot-v4/assets/index-BASjyjB7.css">
 </head>
@@ -14,12 +25,5 @@
 <body>
   <div id="app"></div>
 </body>
-<script>
-  const pymTimeout = setTimeout(startPolling, 2000);
-
-  function startPolling() {
-    var pymChild = new pym.Child({ polling: 500 });
-  }
-</script>
 
 </html>
